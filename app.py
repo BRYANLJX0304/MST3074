@@ -25,7 +25,7 @@ a = st.text_input("Enter a")
 b = st.text_input("Enter b")
 c = st.text_input("Enter c")
 
-if st.button("Upload to GitHub")
+if st.button("Upload to GitHub"):
     df = pd.DataFrame([{"a": a, "b": b, "c": c}])
     csv = df.to_csv(index = False)
     content = base64.b64encode(csv.encode()).decode()
