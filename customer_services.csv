@@ -1,0 +1,3001 @@
+ticket_id,customer_id,issue_category,resolution_time,customer_satisfaction,ticket_text
+1,1102,software,5.91,4,Printer not responding to print commands.
+2,1435,network,11.32,3,Unable to connect to WiFi network.
+3,1860,hardware,5.23,5,Unable to connect to WiFi network.
+4,1270,software,7.22,3,Application crashing during use.
+5,1106,network,7.17,2,Unable to connect to WiFi network.
+6,1071,hardware,12.36,1,Keyboard keys not working properly.
+7,1700,software,3.46,5,Need assistance updating antivirus software.
+8,1020,software,3.64,5,Software installation fails with error code.
+9,1614,network,9.32,2,Printer not responding to print commands.
+10,1121,network,4.14,4,Keyboard keys not working properly.
+11,1466,software,6.48,3,Keyboard keys not working properly.
+12,1214,software,6.89,3,Application crashing during use.
+13,1330,software,5.27,4,Keyboard keys not working properly.
+14,1458,software,5.21,3,VPN connection dropping intermittently.
+15,1087,software,3.75,5,Unable to connect to WiFi network.
+16,1372,network,9.35,1,Laptop overheating and shutting down.
+17,1099,software,5.52,4,VPN connection dropping intermittently.
+18,1871,hardware,7.24,2,Software installation fails with error code.
+19,1663,software,4.41,5,Software installation fails with error code.
+20,1130,software,4.76,4,Software installation fails with error code.
+21,1661,network,7.21,3,Unable to connect to WiFi network.
+22,1308,software,2.96,5,Keyboard keys not working properly.
+23,1769,software,6.05,3,Software installation fails with error code.
+24,1343,hardware,9.27,1,Printer not responding to print commands.
+25,1491,software,5.02,5,Laptop overheating and shutting down.
+26,1413,hardware,8.27,3,Keyboard keys not working properly.
+27,1805,software,5.71,5,Application crashing during use.
+28,1385,network,8.4,3,Unable to connect to WiFi network.
+29,1191,software,6.82,3,Need assistance updating antivirus software.
+30,1955,network,8.96,2,VPN connection dropping intermittently.
+31,1276,network,7.59,3,Blue screen error on startup.
+32,1160,hardware,7.78,2,VPN connection dropping intermittently.
+33,1459,software,6.3,3,Software installation fails with error code.
+34,1313,software,4.58,5,Laptop overheating and shutting down.
+35,1021,network,7.66,2,Application crashing during use.
+36,1252,software,4.74,3,Keyboard keys not working properly.
+37,1747,network,7.2,4,Printer not responding to print commands.
+38,1856,network,7.69,4,Frequent disconnections from corporate network.
+39,1560,software,7.89,2,VPN connection dropping intermittently.
+40,1474,network,5.9,5,Frequent disconnections from corporate network.
+41,1058,software,3.78,5,Keyboard keys not working properly.
+42,1510,network,10.77,1,Laptop overheating and shutting down.
+43,1681,network,7.25,2,Frequent disconnections from corporate network.
+44,1475,network,7.1,2,VPN connection dropping intermittently.
+45,1699,software,6.55,4,Need assistance updating antivirus software.
+46,1975,software,2.87,5,Blue screen error on startup.
+47,1782,software,6.23,5,Frequent disconnections from corporate network.
+48,1189,software,5.07,4,Need assistance updating antivirus software.
+49,1957,software,5.7,4,Need assistance updating antivirus software.
+50,1686,network,8.89,4,Software installation fails with error code.
+51,1957,software,4.06,5,Blue screen error on startup.
+52,1562,hardware,13.15,,Printer not responding to print commands.
+53,1875,software,4.17,3,VPN connection dropping intermittently.
+54,1566,software,5.61,4,Application crashing during use.
+55,1243,hardware,13.71,1,Keyboard keys not working properly.
+56,1831,software,7.07,3,Application crashing during use.
+57,1504,network,7.47,3,Frequent disconnections from corporate network.
+58,1130,software,5.69,5,Blue screen error on startup.
+59,1484,software,4.46,4,Frequent disconnections from corporate network.
+60,1818,software,8.76,3,Blue screen error on startup.
+61,1646,software,6.17,3,VPN connection dropping intermittently.
+62,1020,software,5.13,4,Keyboard keys not working properly.
+63,1840,software,5.47,3,Keyboard keys not working properly.
+64,1166,software,5.61,5,VPN connection dropping intermittently.
+65,1273,hardware,11.31,1,Printer not responding to print commands.
+66,1387,software,4.64,4,Need assistance updating antivirus software.
+67,1600,network,7.21,2,Blue screen error on startup.
+68,1315,software,4.77,3,Unable to connect to WiFi network.
+69,1013,network,5.72,4,Unable to connect to WiFi network.
+70,1241,software,6.08,4,Need assistance updating antivirus software.
+71,1776,software,3.8,4,Frequent disconnections from corporate network.
+72,1345,network,5.88,3,Blue screen error on startup.
+73,1564,software,4.98,4,Laptop overheating and shutting down.
+74,1897,network,7.74,,Keyboard keys not working properly.
+75,1339,network,8.5,2,Application crashing during use.
+76,1091,software,4.15,4,Laptop overheating and shutting down.
+77,1366,software,4.41,3,Application crashing during use.
+78,1955,hardware,12.08,2,Keyboard keys not working properly.
+79,1454,software,5.95,3,Unable to connect to WiFi network.
+80,1427,software,5.88,4,VPN connection dropping intermittently.
+81,1508,software,5.05,3,Printer not responding to print commands.
+82,1775,network,8.34,4,Software installation fails with error code.
+83,1942,hardware,10.69,1,Frequent disconnections from corporate network.
+84,1034,software,4.02,3,Need assistance updating antivirus software.
+85,1205,software,7.21,2,Unable to connect to WiFi network.
+86,1080,network,10.66,3,VPN connection dropping intermittently.
+87,1931,software,6.19,4,VPN connection dropping intermittently.
+88,1561,software,4.36,4,Application crashing during use.
+89,1871,hardware,11.62,3,VPN connection dropping intermittently.
+90,1387,network,9.96,3,Blue screen error on startup.
+91,1001,software,3.17,5,Frequent disconnections from corporate network.
+92,1389,hardware,15.08,1,Software installation fails with error code.
+93,1565,software,2.39,5,Unable to connect to WiFi network.
+94,1105,software,6.06,3,Blue screen error on startup.
+95,1771,network,10.91,2,Unable to connect to WiFi network.
+96,1821,hardware,9.66,2,Printer not responding to print commands.
+97,1476,network,7.7,3,Software installation fails with error code.
+98,1702,software,6,4,VPN connection dropping intermittently.
+99,1401,software,7.78,3,Printer not responding to print commands.
+100,1729,network,7.44,4,Application crashing during use.
+101,1555,software,3.83,4,Printer not responding to print commands.
+102,1161,network,7.15,2,Laptop overheating and shutting down.
+103,1201,network,4.89,4,Application crashing during use.
+104,1957,software,6.35,5,Software installation fails with error code.
+105,1995,hardware,8.46,2,Frequent disconnections from corporate network.
+106,1269,software,4.69,3,Laptop overheating and shutting down.
+107,1862,software,6.36,3,Unable to connect to WiFi network.
+108,1815,network,7.25,2,Need assistance updating antivirus software.
+109,1270,network,9.52,3,Need assistance updating antivirus software.
+110,1455,network,5.92,4,Laptop overheating and shutting down.
+111,1461,network,9.92,2,Frequent disconnections from corporate network.
+112,1726,software,5.51,4,Blue screen error on startup.
+113,1251,software,4.87,4,Need assistance updating antivirus software.
+114,1701,software,5.2,3,Laptop overheating and shutting down.
+115,1295,network,5.43,3,Software installation fails with error code.
+116,1724,software,5.16,4,Keyboard keys not working properly.
+117,1719,hardware,9.57,1,Frequent disconnections from corporate network.
+118,1748,network,5.48,4,Frequent disconnections from corporate network.
+119,1337,hardware,7.99,2,Blue screen error on startup.
+120,1878,hardware,9.61,1,Application crashing during use.
+121,1052,network,6.79,3,VPN connection dropping intermittently.
+122,1791,software,1.38,5,Need assistance updating antivirus software.
+123,1921,software,6.61,3,VPN connection dropping intermittently.
+124,1216,software,4.79,5,VPN connection dropping intermittently.
+125,1763,software,1.59,4,Software installation fails with error code.
+126,1187,software,8.2,3,Unable to connect to WiFi network.
+127,1379,software,6.86,5,VPN connection dropping intermittently.
+128,1492,software,4.48,5,Frequent disconnections from corporate network.
+129,1040,software,3.74,5,Blue screen error on startup.
+130,1156,software,5.6,3,Blue screen error on startup.
+131,1014,software,5.3,3,Keyboard keys not working properly.
+132,1812,software,5.81,4,Unable to connect to WiFi network.
+133,1064,network,6.32,3,Application crashing during use.
+134,1856,network,10.2,1,Frequent disconnections from corporate network.
+135,1838,hardware,8.58,4,Frequent disconnections from corporate network.
+136,1520,software,6.02,4,Keyboard keys not working properly.
+137,1343,network,6.41,4,Printer not responding to print commands.
+138,1128,network,13.3,3,Keyboard keys not working properly.
+139,1647,network,9.39,2,VPN connection dropping intermittently.
+140,1471,hardware,18.65,2,Laptop overheating and shutting down.
+141,1062,software,6.24,4,Blue screen error on startup.
+142,1138,hardware,8.32,2,Keyboard keys not working properly.
+143,1498,software,6.24,3,VPN connection dropping intermittently.
+144,1592,software,6.35,5,Need assistance updating antivirus software.
+145,1391,software,5.56,5,Unable to connect to WiFi network.
+146,1674,software,5.95,5,Frequent disconnections from corporate network.
+147,1418,network,9.52,1,Printer not responding to print commands.
+148,1288,hardware,7.02,4,Unable to connect to WiFi network.
+149,1378,hardware,6.81,3,VPN connection dropping intermittently.
+150,1772,software,3.81,4,Application crashing during use.
+151,1489,hardware,10.38,1,Need assistance updating antivirus software.
+152,1230,hardware,9.33,1,VPN connection dropping intermittently.
+153,1040,software,3.54,4,Laptop overheating and shutting down.
+154,1027,network,9.55,1,Software installation fails with error code.
+155,1134,software,5.42,3,VPN connection dropping intermittently.
+156,1200,software,5.25,4,Keyboard keys not working properly.
+157,1839,network,7.48,3,VPN connection dropping intermittently.
+158,1779,network,7.24,3,Keyboard keys not working properly.
+159,1929,software,3.74,4,Application crashing during use.
+160,1032,network,9.87,1,Frequent disconnections from corporate network.
+161,1047,software,3.94,5,Blue screen error on startup.
+162,1502,hardware,10.63,2,Software installation fails with error code.
+163,1406,hardware,14.99,1,Application crashing during use.
+164,1573,network,7.34,3,Keyboard keys not working properly.
+165,1727,hardware,12.88,3,Blue screen error on startup.
+166,1804,network,9.14,1,Laptop overheating and shutting down.
+167,1098,network,8.62,2,Unable to connect to WiFi network.
+168,1683,software,5.65,4,Software installation fails with error code.
+169,1871,software,4.86,4,Printer not responding to print commands.
+170,1725,software,5.05,3,Application crashing during use.
+171,1986,software,4.18,3,Unable to connect to WiFi network.
+172,1546,network,8.08,2,Unable to connect to WiFi network.
+173,1960,network,6.83,5,VPN connection dropping intermittently.
+174,1738,software,6.51,4,VPN connection dropping intermittently.
+175,1612,software,2.45,5,Printer not responding to print commands.
+176,1942,software,5.72,5,Printer not responding to print commands.
+177,1461,network,8.67,2,Keyboard keys not working properly.
+178,1642,software,5.37,5,Printer not responding to print commands.
+179,1768,network,10.05,2,Unable to connect to WiFi network.
+180,1004,network,7.43,2,Keyboard keys not working properly.
+181,1217,software,5.38,5,Blue screen error on startup.
+182,1502,network,4.57,5,Frequent disconnections from corporate network.
+183,1766,network,7.17,4,Frequent disconnections from corporate network.
+184,1397,software,6.28,3,Frequent disconnections from corporate network.
+185,1870,software,2.99,5,Software installation fails with error code.
+186,1794,software,5.24,5,Software installation fails with error code.
+187,1392,network,6.64,3,Printer not responding to print commands.
+188,1206,network,7.78,2,Frequent disconnections from corporate network.
+189,1014,network,6.76,3,Laptop overheating and shutting down.
+190,1857,network,5.51,5,VPN connection dropping intermittently.
+191,1553,software,5.58,4,Laptop overheating and shutting down.
+192,1891,hardware,9.85,1,Frequent disconnections from corporate network.
+193,1460,software,5.92,3,Frequent disconnections from corporate network.
+194,1690,software,6.19,3,VPN connection dropping intermittently.
+195,1574,software,6.84,4,Frequent disconnections from corporate network.
+196,1863,software,5.2,4,Application crashing during use.
+197,1742,software,6.9,,Unable to connect to WiFi network.
+198,1240,software,3.54,5,Keyboard keys not working properly.
+199,1563,software,6.36,4,VPN connection dropping intermittently.
+200,1095,network,8.92,2,Frequent disconnections from corporate network.
+201,1899,software,5.35,3,Software installation fails with error code.
+202,1733,hardware,11.33,1,Software installation fails with error code.
+203,1484,network,6.08,3,Unable to connect to WiFi network.
+204,1406,network,5.61,3,Software installation fails with error code.
+205,1230,software,7.56,4,Keyboard keys not working properly.
+206,1748,software,4.75,4,Need assistance updating antivirus software.
+207,1654,software,4.73,3,Need assistance updating antivirus software.
+208,1170,software,3.35,4,Need assistance updating antivirus software.
+209,1540,network,5.04,3,Unable to connect to WiFi network.
+210,1035,software,4.87,5,Unable to connect to WiFi network.
+211,1524,software,4.49,3,Keyboard keys not working properly.
+212,1159,hardware,10.01,1,VPN connection dropping intermittently.
+213,1838,software,5.13,4,Printer not responding to print commands.
+214,1698,network,12.98,1,Need assistance updating antivirus software.
+215,1242,network,7.32,2,Software installation fails with error code.
+216,1085,network,11.16,1,Laptop overheating and shutting down.
+217,1795,software,7.46,2,Printer not responding to print commands.
+218,1577,network,9.51,1,Keyboard keys not working properly.
+219,1681,software,4.65,3,VPN connection dropping intermittently.
+220,1556,software,2.96,5,Software installation fails with error code.
+221,1573,network,8.96,2,Frequent disconnections from corporate network.
+222,1952,network,10.04,2,VPN connection dropping intermittently.
+223,1645,network,11.5,2,Need assistance updating antivirus software.
+224,1795,hardware,7.15,3,Need assistance updating antivirus software.
+225,1027,network,7.51,2,Frequent disconnections from corporate network.
+226,1619,software,3.58,4,Keyboard keys not working properly.
+227,1555,hardware,8.1,3,Blue screen error on startup.
+228,1339,software,6,4,VPN connection dropping intermittently.
+229,1797,hardware,7.96,3,Frequent disconnections from corporate network.
+230,1957,software,3.76,4,Keyboard keys not working properly.
+231,1330,hardware,12.39,3,Keyboard keys not working properly.
+232,1639,network,8.9,2,Unable to connect to WiFi network.
+233,1505,network,8.7,2,VPN connection dropping intermittently.
+234,1347,software,4.02,4,Software installation fails with error code.
+235,1472,hardware,13.88,1,Blue screen error on startup.
+236,1230,hardware,10.04,1,Application crashing during use.
+237,1189,network,12.76,2,Laptop overheating and shutting down.
+238,1224,network,8.32,4,VPN connection dropping intermittently.
+239,1384,hardware,3,5,Printer not responding to print commands.
+240,1376,network,3.24,5,Keyboard keys not working properly.
+241,1282,software,5.94,4,Unable to connect to WiFi network.
+242,1957,hardware,13.9,1,Frequent disconnections from corporate network.
+243,1632,software,3.82,5,Need assistance updating antivirus software.
+244,1627,software,8.15,2,Frequent disconnections from corporate network.
+245,1972,software,7.49,2,Frequent disconnections from corporate network.
+246,1744,network,8.42,2,Blue screen error on startup.
+247,1258,hardware,11.62,1,VPN connection dropping intermittently.
+248,1358,software,6.34,4,Frequent disconnections from corporate network.
+249,1709,hardware,15.67,3,Blue screen error on startup.
+250,1455,network,9.36,1,Application crashing during use.
+251,1410,hardware,10.56,3,Software installation fails with error code.
+252,1648,software,6.01,4,Application crashing during use.
+253,1317,network,9.07,2,VPN connection dropping intermittently.
+254,1676,network,9.85,2,Need assistance updating antivirus software.
+255,1224,software,2.64,4,Application crashing during use.
+256,1818,software,5.47,5,Blue screen error on startup.
+257,1233,hardware,11.38,2,Blue screen error on startup.
+258,1683,network,7.85,4,Laptop overheating and shutting down.
+259,1663,network,9.57,2,Keyboard keys not working properly.
+260,1974,software,7.88,4,Printer not responding to print commands.
+261,1826,software,5.21,,Printer not responding to print commands.
+262,1373,software,6.04,3,VPN connection dropping intermittently.
+263,1671,hardware,14.82,1,Keyboard keys not working properly.
+264,1607,hardware,10.48,1,Laptop overheating and shutting down.
+265,1471,hardware,7.33,3,Unable to connect to WiFi network.
+266,1232,software,5.92,3,Frequent disconnections from corporate network.
+267,1691,software,1.7,5,Application crashing during use.
+268,1112,software,1.55,5,Keyboard keys not working properly.
+269,1829,software,5.5,5,Frequent disconnections from corporate network.
+270,1496,hardware,2.97,5,Unable to connect to WiFi network.
+271,1441,network,5.37,4,Need assistance updating antivirus software.
+272,1563,software,4.43,5,Laptop overheating and shutting down.
+273,1267,network,6.56,4,Frequent disconnections from corporate network.
+274,1509,software,4.78,5,Laptop overheating and shutting down.
+275,1806,hardware,13.34,1,Laptop overheating and shutting down.
+276,1385,software,5.36,3,Keyboard keys not working properly.
+277,1386,network,6.32,4,Blue screen error on startup.
+278,1112,hardware,14.06,2,Software installation fails with error code.
+279,1612,software,2.86,5,VPN connection dropping intermittently.
+280,1624,network,8.44,3,Printer not responding to print commands.
+281,1951,network,4.92,3,Laptop overheating and shutting down.
+282,1080,network,8.5,4,Keyboard keys not working properly.
+283,1698,network,7.36,3,Keyboard keys not working properly.
+284,1112,hardware,13.25,1,Frequent disconnections from corporate network.
+285,1001,software,6.08,4,Frequent disconnections from corporate network.
+286,1641,hardware,8.24,3,Application crashing during use.
+287,1219,software,3.83,5,Laptop overheating and shutting down.
+288,1565,network,7.37,3,Software installation fails with error code.
+289,1854,software,7.81,2,VPN connection dropping intermittently.
+290,1996,network,11.24,1,VPN connection dropping intermittently.
+291,1735,software,3.55,5,Need assistance updating antivirus software.
+292,1224,hardware,12.4,3,Need assistance updating antivirus software.
+293,1384,software,2.4,5,Application crashing during use.
+294,1402,software,4.33,5,Printer not responding to print commands.
+295,1637,network,6.14,4,Need assistance updating antivirus software.
+296,1129,network,10.14,3,Unable to connect to WiFi network.
+297,1052,network,5.42,3,Application crashing during use.
+298,1683,software,5.64,5,VPN connection dropping intermittently.
+299,1729,network,8,4,VPN connection dropping intermittently.
+300,1671,software,4.74,5,Software installation fails with error code.
+301,1709,software,7.51,2,Keyboard keys not working properly.
+302,1415,software,7.64,2,Unable to connect to WiFi network.
+303,1246,network,7.71,3,Printer not responding to print commands.
+304,1835,network,7.31,2,Frequent disconnections from corporate network.
+305,1438,hardware,5.48,3,Application crashing during use.
+306,1202,software,4.99,3,Need assistance updating antivirus software.
+307,1183,software,7.93,3,Blue screen error on startup.
+308,1122,network,7.74,3,Software installation fails with error code.
+309,1400,hardware,12.19,1,VPN connection dropping intermittently.
+310,1766,software,2.9,4,Blue screen error on startup.
+311,1293,software,4.35,4,Application crashing during use.
+312,1279,hardware,11.39,2,Laptop overheating and shutting down.
+313,1836,network,8.21,2,Printer not responding to print commands.
+314,1883,software,6.24,3,Laptop overheating and shutting down.
+315,1609,software,4.1,5,Application crashing during use.
+316,1197,network,4.5,5,Laptop overheating and shutting down.
+317,1981,hardware,13.37,3,Printer not responding to print commands.
+318,1906,software,3.6,5,Keyboard keys not working properly.
+319,1510,software,5.76,3,Application crashing during use.
+320,1751,network,8.9,3,Blue screen error on startup.
+321,1143,network,4.67,4,Laptop overheating and shutting down.
+322,1608,software,6.57,4,Printer not responding to print commands.
+323,1200,software,4.15,3,Need assistance updating antivirus software.
+324,1123,network,8.11,3,Frequent disconnections from corporate network.
+325,1186,software,4.46,4,Printer not responding to print commands.
+326,1325,software,7.43,2,Software installation fails with error code.
+327,1463,network,10.69,2,Frequent disconnections from corporate network.
+328,1348,software,2.28,4,Need assistance updating antivirus software.
+329,1770,network,12.52,1,Unable to connect to WiFi network.
+330,1659,hardware,7.97,2,Blue screen error on startup.
+331,1763,software,8.15,2,VPN connection dropping intermittently.
+332,1954,network,7.49,2,Need assistance updating antivirus software.
+333,1931,software,4.49,,Keyboard keys not working properly.
+334,1402,software,4.63,4,Frequent disconnections from corporate network.
+335,1345,software,4.4,4,Keyboard keys not working properly.
+336,1962,software,8.79,2,Frequent disconnections from corporate network.
+337,1510,software,4.89,4,Software installation fails with error code.
+338,1146,network,7.4,3,Unable to connect to WiFi network.
+339,1147,network,8.15,3,VPN connection dropping intermittently.
+340,1863,network,6.07,4,Software installation fails with error code.
+341,1710,software,7.4,,Need assistance updating antivirus software.
+342,1819,hardware,5.59,5,Keyboard keys not working properly.
+343,1488,software,4.08,4,Frequent disconnections from corporate network.
+344,1928,network,9.87,1,Need assistance updating antivirus software.
+345,1935,software,5.06,4,Printer not responding to print commands.
+346,1639,hardware,11.65,2,Unable to connect to WiFi network.
+347,1550,software,7.3,3,Blue screen error on startup.
+348,1337,hardware,13.01,3,Printer not responding to print commands.
+349,1871,network,8.27,3,Keyboard keys not working properly.
+350,1640,network,12.18,3,Unable to connect to WiFi network.
+351,1778,hardware,8.11,2,Unable to connect to WiFi network.
+352,1987,software,4.85,3,Need assistance updating antivirus software.
+353,1952,software,4.95,3,Printer not responding to print commands.
+354,1472,software,4.85,5,Need assistance updating antivirus software.
+355,1945,hardware,6.79,5,Need assistance updating antivirus software.
+356,1150,software,2.62,5,Need assistance updating antivirus software.
+357,1414,software,5.63,4,Keyboard keys not working properly.
+358,1989,software,4.05,4,Frequent disconnections from corporate network.
+359,1297,software,7.86,4,Frequent disconnections from corporate network.
+360,1610,software,4.89,5,Keyboard keys not working properly.
+361,1262,hardware,9.25,2,VPN connection dropping intermittently.
+362,1763,hardware,13.28,2,Blue screen error on startup.
+363,1143,hardware,11.21,1,Software installation fails with error code.
+364,1345,network,7.65,3,Blue screen error on startup.
+365,1623,software,4.04,4,Keyboard keys not working properly.
+366,1571,software,10.49,1,Laptop overheating and shutting down.
+367,1880,software,5.54,5,Software installation fails with error code.
+368,1001,software,6.63,4,VPN connection dropping intermittently.
+369,1896,hardware,6.93,5,Application crashing during use.
+370,1303,software,4.13,3,Software installation fails with error code.
+371,1253,software,8.17,3,Unable to connect to WiFi network.
+372,1651,network,10.79,1,Keyboard keys not working properly.
+373,1452,software,5.69,3,Application crashing during use.
+374,1036,software,4.43,4,Blue screen error on startup.
+375,1159,software,4.65,3,Application crashing during use.
+376,1008,network,6.65,3,Keyboard keys not working properly.
+377,1232,network,5.69,3,Blue screen error on startup.
+378,1098,software,6.39,3,Keyboard keys not working properly.
+379,1658,network,9.08,2,Printer not responding to print commands.
+380,1815,network,9.47,1,Laptop overheating and shutting down.
+381,1207,network,7.33,3,VPN connection dropping intermittently.
+382,1130,network,8.51,3,VPN connection dropping intermittently.
+383,1403,network,7.14,3,Unable to connect to WiFi network.
+384,1151,software,3.91,5,Laptop overheating and shutting down.
+385,1053,software,7.5,3,Laptop overheating and shutting down.
+386,1119,hardware,10.36,2,Unable to connect to WiFi network.
+387,1672,software,5.76,3,Blue screen error on startup.
+388,1919,software,6.25,4,Unable to connect to WiFi network.
+389,1627,network,8.27,4,Blue screen error on startup.
+390,1586,network,8.48,2,Unable to connect to WiFi network.
+391,1624,software,3.37,4,Software installation fails with error code.
+392,1967,network,6.21,3,Software installation fails with error code.
+393,1419,software,3.58,5,Printer not responding to print commands.
+394,1421,software,5.91,4,Frequent disconnections from corporate network.
+395,1103,software,5.11,4,Unable to connect to WiFi network.
+396,1851,network,6.21,3,Laptop overheating and shutting down.
+397,1253,software,5.87,5,Software installation fails with error code.
+398,1226,software,5.82,3,Need assistance updating antivirus software.
+399,1111,network,6.61,3,Blue screen error on startup.
+400,1509,software,4.96,4,Software installation fails with error code.
+401,1472,software,5.82,3,Software installation fails with error code.
+402,1098,hardware,7.42,2,Keyboard keys not working properly.
+403,1152,network,9.13,1,Blue screen error on startup.
+404,1860,hardware,10.9,2,VPN connection dropping intermittently.
+405,1913,software,3.5,5,Application crashing during use.
+406,1895,software,5.33,5,Blue screen error on startup.
+407,1877,network,8.73,3,Printer not responding to print commands.
+408,1337,software,4.06,3,Keyboard keys not working properly.
+409,1705,network,6.91,4,Blue screen error on startup.
+410,1821,software,3.49,5,Blue screen error on startup.
+411,1162,network,7.1,2,Frequent disconnections from corporate network.
+412,1719,hardware,9.96,1,Keyboard keys not working properly.
+413,1956,software,4.18,3,Blue screen error on startup.
+414,1680,software,2.77,5,Application crashing during use.
+415,1995,network,6.62,3,Application crashing during use.
+416,1160,network,7.17,4,Need assistance updating antivirus software.
+417,1579,software,6.23,3,Keyboard keys not working properly.
+418,1800,software,5.89,3,VPN connection dropping intermittently.
+419,1397,network,9.67,1,Blue screen error on startup.
+420,1276,software,3.89,5,Frequent disconnections from corporate network.
+421,1815,hardware,10.42,1,Frequent disconnections from corporate network.
+422,1915,software,1.37,4,Laptop overheating and shutting down.
+423,1503,software,5.64,3,VPN connection dropping intermittently.
+424,1895,hardware,11.83,1,Frequent disconnections from corporate network.
+425,1391,network,7.3,2,Application crashing during use.
+426,1134,software,5.44,5,Laptop overheating and shutting down.
+427,1194,hardware,5.46,4,Unable to connect to WiFi network.
+428,1400,network,6.4,4,Frequent disconnections from corporate network.
+429,1639,software,6.15,3,Printer not responding to print commands.
+430,1032,software,5.77,3,Keyboard keys not working properly.
+431,1687,software,4.38,3,Frequent disconnections from corporate network.
+432,1459,software,6.22,4,Software installation fails with error code.
+433,1954,hardware,10.41,1,VPN connection dropping intermittently.
+434,1882,software,4.24,3,Software installation fails with error code.
+435,1469,network,7.63,3,Need assistance updating antivirus software.
+436,1374,hardware,8.63,3,Frequent disconnections from corporate network.
+437,1021,network,5.63,3,Unable to connect to WiFi network.
+438,1749,software,6.89,3,Software installation fails with error code.
+439,1669,software,4.15,4,Software installation fails with error code.
+440,1037,software,3.75,5,VPN connection dropping intermittently.
+441,1229,software,2.71,4,Laptop overheating and shutting down.
+442,1364,hardware,2.09,4,Unable to connect to WiFi network.
+443,1562,software,6.05,4,Software installation fails with error code.
+444,1437,software,6.19,3,Blue screen error on startup.
+445,1775,network,10.39,2,Unable to connect to WiFi network.
+446,1282,hardware,9.55,2,Blue screen error on startup.
+447,1026,hardware,9.03,1,Frequent disconnections from corporate network.
+448,1225,software,4.24,3,Software installation fails with error code.
+449,1276,network,7.17,3,Software installation fails with error code.
+450,1797,network,10.24,1,Application crashing during use.
+451,1608,network,7.95,2,Application crashing during use.
+452,1283,network,8.76,3,VPN connection dropping intermittently.
+453,1878,software,4.34,3,Keyboard keys not working properly.
+454,1959,hardware,13.96,1,Keyboard keys not working properly.
+455,1480,software,2.14,4,Laptop overheating and shutting down.
+456,1452,network,5.56,4,VPN connection dropping intermittently.
+457,1828,network,8.76,2,Keyboard keys not working properly.
+458,1815,network,11.5,3,VPN connection dropping intermittently.
+459,1658,network,7.55,3,Software installation fails with error code.
+460,1515,network,6.32,3,Application crashing during use.
+461,1546,network,10,,Application crashing during use.
+462,1191,software,5.49,3,Application crashing during use.
+463,1048,hardware,13.87,2,Keyboard keys not working properly.
+464,1511,software,3.06,5,Unable to connect to WiFi network.
+465,1016,software,6.82,4,Printer not responding to print commands.
+466,1171,hardware,5.35,3,Software installation fails with error code.
+467,1219,network,7.42,3,Frequent disconnections from corporate network.
+468,1157,network,8.83,2,VPN connection dropping intermittently.
+469,1476,hardware,10.56,2,Application crashing during use.
+470,1045,network,10.12,,Application crashing during use.
+471,1372,software,2.26,5,Application crashing during use.
+472,1517,software,5.21,3,Software installation fails with error code.
+473,1098,software,6.8,4,Application crashing during use.
+474,1891,software,5.09,4,Laptop overheating and shutting down.
+475,1744,software,3.29,5,VPN connection dropping intermittently.
+476,1036,network,10.02,1,Software installation fails with error code.
+477,1279,network,6.7,4,VPN connection dropping intermittently.
+478,1348,software,3.76,4,Blue screen error on startup.
+479,1496,software,3.57,4,Need assistance updating antivirus software.
+480,1301,network,7.6,2,Laptop overheating and shutting down.
+481,1180,hardware,10.55,1,Unable to connect to WiFi network.
+482,1606,software,3.1,,Unable to connect to WiFi network.
+483,1098,hardware,6.81,5,Printer not responding to print commands.
+484,1699,software,3.96,5,Laptop overheating and shutting down.
+485,1992,software,3.57,4,VPN connection dropping intermittently.
+486,1115,software,5.06,4,Unable to connect to WiFi network.
+487,1190,hardware,11.08,1,Need assistance updating antivirus software.
+488,1252,network,8.45,2,Unable to connect to WiFi network.
+489,1980,software,5.34,5,Application crashing during use.
+490,1927,network,11.34,1,Printer not responding to print commands.
+491,1982,software,5.64,5,Software installation fails with error code.
+492,1160,software,6.18,4,Frequent disconnections from corporate network.
+493,1255,hardware,8.76,3,Frequent disconnections from corporate network.
+494,1322,hardware,12.83,1,Unable to connect to WiFi network.
+495,1127,network,7.08,3,VPN connection dropping intermittently.
+496,1017,network,8.82,2,VPN connection dropping intermittently.
+497,1792,software,2.94,5,Application crashing during use.
+498,1734,software,5.25,4,Unable to connect to WiFi network.
+499,1565,network,6.05,5,Unable to connect to WiFi network.
+500,1569,software,6.4,4,Frequent disconnections from corporate network.
+501,1322,software,6.31,5,Blue screen error on startup.
+502,1871,hardware,8.6,2,Unable to connect to WiFi network.
+503,1685,network,12.1,1,Software installation fails with error code.
+504,1791,software,4.57,4,Printer not responding to print commands.
+505,1625,software,2.58,5,Printer not responding to print commands.
+506,1287,software,3.83,5,Software installation fails with error code.
+507,1942,software,3.43,4,Blue screen error on startup.
+508,1853,software,5.57,3,VPN connection dropping intermittently.
+509,1662,network,5.53,5,Frequent disconnections from corporate network.
+510,1961,hardware,8.38,3,Printer not responding to print commands.
+511,1638,software,5.47,3,Laptop overheating and shutting down.
+512,1154,network,8.28,3,Need assistance updating antivirus software.
+513,1489,software,4.98,5,Frequent disconnections from corporate network.
+514,1385,network,8.25,2,Blue screen error on startup.
+515,1985,network,7.26,4,Laptop overheating and shutting down.
+516,1784,hardware,5.19,5,Unable to connect to WiFi network.
+517,1103,software,4.4,5,Software installation fails with error code.
+518,1928,software,5.7,5,Unable to connect to WiFi network.
+519,1392,network,7.73,3,Application crashing during use.
+520,1810,software,5.59,3,Keyboard keys not working properly.
+521,1245,network,6.83,3,Software installation fails with error code.
+522,1175,software,6.49,3,Laptop overheating and shutting down.
+523,1038,hardware,2.33,5,Need assistance updating antivirus software.
+524,1476,software,5.21,3,Keyboard keys not working properly.
+525,1681,software,7.02,,Application crashing during use.
+526,1758,software,7.25,2,VPN connection dropping intermittently.
+527,1537,hardware,9.3,1,Application crashing during use.
+528,1866,software,3.01,5,Keyboard keys not working properly.
+529,1817,software,7.05,2,Printer not responding to print commands.
+530,1920,software,4.92,4,Frequent disconnections from corporate network.
+531,1407,network,7.68,3,Blue screen error on startup.
+532,1524,network,6.21,3,Unable to connect to WiFi network.
+533,1827,software,3.13,5,VPN connection dropping intermittently.
+534,1505,network,9.13,2,Blue screen error on startup.
+535,1902,network,9.34,1,Application crashing during use.
+536,1824,hardware,10.6,1,Need assistance updating antivirus software.
+537,1035,software,3.85,5,Unable to connect to WiFi network.
+538,1684,software,3.4,4,VPN connection dropping intermittently.
+539,1019,software,2.85,5,Blue screen error on startup.
+540,1320,software,4.16,4,Unable to connect to WiFi network.
+541,1775,network,5.99,5,Unable to connect to WiFi network.
+542,1511,software,2.44,5,VPN connection dropping intermittently.
+543,1399,network,9.3,1,Laptop overheating and shutting down.
+544,1653,software,3.02,4,Frequent disconnections from corporate network.
+545,1971,software,6.48,4,Laptop overheating and shutting down.
+546,1882,software,5.59,3,Unable to connect to WiFi network.
+547,1470,software,5.44,3,Keyboard keys not working properly.
+548,1142,software,7.5,4,Software installation fails with error code.
+549,1091,network,5.43,3,Keyboard keys not working properly.
+550,1353,software,6.31,5,VPN connection dropping intermittently.
+551,1833,network,7.4,2,Unable to connect to WiFi network.
+552,1799,network,13.14,3,Unable to connect to WiFi network.
+553,1726,network,7.24,3,Need assistance updating antivirus software.
+554,1958,software,4.19,4,Frequent disconnections from corporate network.
+555,1853,software,5.64,3,Need assistance updating antivirus software.
+556,1050,network,7.58,4,VPN connection dropping intermittently.
+557,1664,software,3.86,5,Printer not responding to print commands.
+558,1697,software,3.54,5,Laptop overheating and shutting down.
+559,1574,network,10.92,2,Need assistance updating antivirus software.
+560,1189,hardware,6.51,4,VPN connection dropping intermittently.
+561,1124,software,5.33,3,Laptop overheating and shutting down.
+562,1149,software,6.58,4,VPN connection dropping intermittently.
+563,1313,software,6.66,5,Printer not responding to print commands.
+564,1569,network,6.8,3,Frequent disconnections from corporate network.
+565,1341,software,4.69,3,Frequent disconnections from corporate network.
+566,1304,software,4.4,4,VPN connection dropping intermittently.
+567,1691,hardware,5.39,4,Need assistance updating antivirus software.
+568,1681,network,9.08,1,Frequent disconnections from corporate network.
+569,1837,software,5.06,3,Software installation fails with error code.
+570,1782,software,7.16,2,Need assistance updating antivirus software.
+571,1053,network,6.35,4,Blue screen error on startup.
+572,1443,software,6.63,3,Application crashing during use.
+573,1612,software,6.74,4,VPN connection dropping intermittently.
+574,1992,hardware,10.14,1,VPN connection dropping intermittently.
+575,1263,software,1.74,5,VPN connection dropping intermittently.
+576,1052,software,4.23,5,Printer not responding to print commands.
+577,1571,hardware,15.36,1,VPN connection dropping intermittently.
+578,1619,hardware,10.89,1,Frequent disconnections from corporate network.
+579,1004,network,9.39,3,Frequent disconnections from corporate network.
+580,1102,software,4.87,3,Application crashing during use.
+581,1195,software,4.66,3,Application crashing during use.
+582,1773,hardware,4.4,5,Keyboard keys not working properly.
+583,1876,software,6.19,5,Need assistance updating antivirus software.
+584,1991,network,10.16,2,Frequent disconnections from corporate network.
+585,1883,software,3.57,4,Frequent disconnections from corporate network.
+586,1349,software,4.73,3,Printer not responding to print commands.
+587,1046,hardware,9.06,1,Frequent disconnections from corporate network.
+588,1866,hardware,11.26,2,Frequent disconnections from corporate network.
+589,1822,software,4.18,,Keyboard keys not working properly.
+590,1935,network,9.86,3,Software installation fails with error code.
+591,1819,software,5.11,3,Keyboard keys not working properly.
+592,1655,network,2.9,5,Software installation fails with error code.
+593,1268,network,8.89,2,Keyboard keys not working properly.
+594,1369,hardware,12.99,1,Frequent disconnections from corporate network.
+595,1635,network,5.7,4,Keyboard keys not working properly.
+596,1105,software,5.61,,Frequent disconnections from corporate network.
+597,1669,hardware,15.49,2,Frequent disconnections from corporate network.
+598,1658,software,5.17,4,Application crashing during use.
+599,1656,network,10.28,3,Unable to connect to WiFi network.
+600,1119,hardware,8.67,3,Software installation fails with error code.
+601,1830,network,7.96,4,Blue screen error on startup.
+602,1786,software,4.69,4,Need assistance updating antivirus software.
+603,1603,hardware,8.84,2,Need assistance updating antivirus software.
+604,1057,hardware,9.56,1,Keyboard keys not working properly.
+605,1950,software,2.55,5,Unable to connect to WiFi network.
+606,1345,software,4.5,4,Printer not responding to print commands.
+607,1740,network,10.68,2,Blue screen error on startup.
+608,1473,hardware,7.11,2,Need assistance updating antivirus software.
+609,1116,hardware,6.8,3,Laptop overheating and shutting down.
+610,1829,software,5.09,3,VPN connection dropping intermittently.
+611,1790,network,8.22,3,Laptop overheating and shutting down.
+612,1126,network,8.75,3,Printer not responding to print commands.
+613,1392,network,7.77,3,Blue screen error on startup.
+614,1907,software,5.11,3,Need assistance updating antivirus software.
+615,1640,software,4.47,3,Keyboard keys not working properly.
+616,1057,hardware,6.17,4,VPN connection dropping intermittently.
+617,1633,software,4.89,4,Software installation fails with error code.
+618,1512,network,9.45,1,Need assistance updating antivirus software.
+619,1750,software,5.77,4,Need assistance updating antivirus software.
+620,1801,software,2.38,5,Printer not responding to print commands.
+621,1095,software,5.38,4,Need assistance updating antivirus software.
+622,1637,software,3.66,5,Blue screen error on startup.
+623,1117,hardware,14.18,2,Unable to connect to WiFi network.
+624,1559,hardware,10.98,2,Blue screen error on startup.
+625,1600,network,9.79,1,Software installation fails with error code.
+626,1487,network,8.04,3,Unable to connect to WiFi network.
+627,1236,software,4.9,4,Need assistance updating antivirus software.
+628,1884,network,10.99,2,Need assistance updating antivirus software.
+629,1896,software,6.46,4,VPN connection dropping intermittently.
+630,1271,network,8.24,2,Need assistance updating antivirus software.
+631,1188,software,4.7,5,Frequent disconnections from corporate network.
+632,1998,network,4.59,4,Software installation fails with error code.
+633,1703,software,5.49,3,Application crashing during use.
+634,1446,hardware,9.62,2,Keyboard keys not working properly.
+635,1580,network,9.11,1,VPN connection dropping intermittently.
+636,1789,network,9.72,1,Laptop overheating and shutting down.
+637,1860,software,6.85,3,Unable to connect to WiFi network.
+638,1246,hardware,11.01,2,Application crashing during use.
+639,1962,network,5.91,5,Keyboard keys not working properly.
+640,1075,software,1.78,5,Need assistance updating antivirus software.
+641,1153,network,6.35,4,Blue screen error on startup.
+642,1655,software,7,3,Frequent disconnections from corporate network.
+643,1434,software,7.74,2,Unable to connect to WiFi network.
+644,1996,software,4.64,3,Unable to connect to WiFi network.
+645,1085,hardware,5.62,4,Unable to connect to WiFi network.
+646,1696,network,6.7,5,Software installation fails with error code.
+647,1284,hardware,13.41,1,Unable to connect to WiFi network.
+648,1973,network,6.82,4,VPN connection dropping intermittently.
+649,1219,hardware,11.77,3,Keyboard keys not working properly.
+650,1068,software,5.25,3,Blue screen error on startup.
+651,1046,hardware,12.13,2,VPN connection dropping intermittently.
+652,1093,network,11.64,2,VPN connection dropping intermittently.
+653,1749,network,9.18,2,Frequent disconnections from corporate network.
+654,1957,software,5.22,3,Blue screen error on startup.
+655,1452,software,7.89,3,Frequent disconnections from corporate network.
+656,1203,network,8.7,3,Unable to connect to WiFi network.
+657,1911,software,3.81,4,Unable to connect to WiFi network.
+658,1217,network,9.37,2,VPN connection dropping intermittently.
+659,1473,software,5.67,3,VPN connection dropping intermittently.
+660,1431,hardware,9.08,3,Unable to connect to WiFi network.
+661,1340,software,4.22,4,Printer not responding to print commands.
+662,1550,network,7.4,4,Keyboard keys not working properly.
+663,1611,software,4.2,3,Software installation fails with error code.
+664,1288,network,7.47,2,Application crashing during use.
+665,1253,hardware,7.47,2,Need assistance updating antivirus software.
+666,1733,network,8.77,2,Laptop overheating and shutting down.
+667,1356,software,5.47,3,Blue screen error on startup.
+668,1022,hardware,11.04,2,Frequent disconnections from corporate network.
+669,1761,hardware,9.81,1,Blue screen error on startup.
+670,1521,software,4.73,4,Unable to connect to WiFi network.
+671,1757,hardware,14.33,1,Application crashing during use.
+672,1836,hardware,10.2,2,Laptop overheating and shutting down.
+673,1099,software,6.9,4,VPN connection dropping intermittently.
+674,1801,software,3.51,5,VPN connection dropping intermittently.
+675,1179,software,5.88,5,Frequent disconnections from corporate network.
+676,1222,software,3.9,4,Keyboard keys not working properly.
+677,1905,software,4.17,4,Need assistance updating antivirus software.
+678,1761,software,4.38,4,Keyboard keys not working properly.
+679,1658,network,7.05,3,Application crashing during use.
+680,1441,network,7.06,3,Keyboard keys not working properly.
+681,1607,network,10.43,1,Frequent disconnections from corporate network.
+682,1768,network,8.09,3,Laptop overheating and shutting down.
+683,1324,network,8.45,3,Laptop overheating and shutting down.
+684,1515,software,4.31,5,Laptop overheating and shutting down.
+685,1015,network,9.71,3,VPN connection dropping intermittently.
+686,1791,hardware,11.07,1,Printer not responding to print commands.
+687,1335,network,7.38,2,Application crashing during use.
+688,1758,network,4.83,5,Need assistance updating antivirus software.
+689,1257,software,5.32,5,Application crashing during use.
+690,1496,software,5.86,,Application crashing during use.
+691,1987,network,6.04,3,Keyboard keys not working properly.
+692,1895,hardware,9.11,3,Software installation fails with error code.
+693,1159,hardware,11.61,2,Application crashing during use.
+694,1474,software,2.64,4,Frequent disconnections from corporate network.
+695,1851,software,4.03,4,Software installation fails with error code.
+696,1663,hardware,11.13,3,Printer not responding to print commands.
+697,1907,software,6.66,5,Frequent disconnections from corporate network.
+698,1689,software,8.28,3,Application crashing during use.
+699,1674,hardware,15.88,2,Blue screen error on startup.
+700,1379,network,8.29,2,VPN connection dropping intermittently.
+701,1544,software,4.27,5,Keyboard keys not working properly.
+702,1928,network,9.85,1,Unable to connect to WiFi network.
+703,1956,software,4.18,5,Need assistance updating antivirus software.
+704,1690,software,3.86,5,Need assistance updating antivirus software.
+705,1426,software,4.54,5,Frequent disconnections from corporate network.
+706,1612,network,7.14,2,Need assistance updating antivirus software.
+707,1267,network,8.83,3,Software installation fails with error code.
+708,1834,software,4.1,3,Laptop overheating and shutting down.
+709,1576,software,5.13,4,Blue screen error on startup.
+710,1416,software,7.39,4,Unable to connect to WiFi network.
+711,1167,network,8.24,3,Need assistance updating antivirus software.
+712,1841,hardware,14.55,2,Need assistance updating antivirus software.
+713,1042,network,10.4,1,Frequent disconnections from corporate network.
+714,1555,hardware,11.78,3,Application crashing during use.
+715,1284,network,7.29,3,VPN connection dropping intermittently.
+716,1396,software,6.56,4,Keyboard keys not working properly.
+717,1011,network,7.5,3,Keyboard keys not working properly.
+718,1606,hardware,9.99,2,Keyboard keys not working properly.
+719,1301,software,5.5,4,Keyboard keys not working properly.
+720,1897,network,7.99,3,Printer not responding to print commands.
+721,1252,software,3.92,5,Unable to connect to WiFi network.
+722,1498,network,4.95,5,Application crashing during use.
+723,1753,network,9.92,3,VPN connection dropping intermittently.
+724,1034,hardware,11.71,1,VPN connection dropping intermittently.
+725,1726,software,2.42,5,Frequent disconnections from corporate network.
+726,1848,software,3.88,4,Blue screen error on startup.
+727,1089,software,5.27,3,Need assistance updating antivirus software.
+728,1775,software,5.66,4,Need assistance updating antivirus software.
+729,1604,network,4.96,5,Application crashing during use.
+730,1921,network,7.82,2,Printer not responding to print commands.
+731,1969,software,5.81,4,Software installation fails with error code.
+732,1601,hardware,8.95,4,Laptop overheating and shutting down.
+733,1417,network,8.51,4,Application crashing during use.
+734,1114,network,7.02,3,Software installation fails with error code.
+735,1616,software,6.36,4,Laptop overheating and shutting down.
+736,1902,hardware,7.6,3,VPN connection dropping intermittently.
+737,1195,network,5.72,3,Printer not responding to print commands.
+738,1825,software,5.04,3,Application crashing during use.
+739,1500,hardware,5.7,3,Keyboard keys not working properly.
+740,1625,network,3.79,5,VPN connection dropping intermittently.
+741,1492,network,10.17,3,Software installation fails with error code.
+742,1074,software,3.52,5,Application crashing during use.
+743,1412,hardware,6,4,Application crashing during use.
+744,1375,network,6.38,4,Frequent disconnections from corporate network.
+745,1419,software,3.72,4,Unable to connect to WiFi network.
+746,1728,software,4.79,4,VPN connection dropping intermittently.
+747,1276,software,3.36,5,Application crashing during use.
+748,1760,software,5.75,3,Need assistance updating antivirus software.
+749,1675,software,5.97,3,Need assistance updating antivirus software.
+750,1393,software,3.09,5,Unable to connect to WiFi network.
+751,1868,software,4.07,4,Application crashing during use.
+752,1456,software,4.22,4,Keyboard keys not working properly.
+753,1919,software,4.75,4,Unable to connect to WiFi network.
+754,1191,hardware,13.25,2,Unable to connect to WiFi network.
+755,1738,network,10.28,,Software installation fails with error code.
+756,1688,hardware,17.5,1,Software installation fails with error code.
+757,1098,hardware,3.19,5,Blue screen error on startup.
+758,1547,network,6.15,5,VPN connection dropping intermittently.
+759,1977,software,7.72,4,Laptop overheating and shutting down.
+760,1998,software,2.3,5,Unable to connect to WiFi network.
+761,1095,network,11.58,2,Software installation fails with error code.
+762,1663,software,5.22,4,Printer not responding to print commands.
+763,1662,network,8.37,3,Blue screen error on startup.
+764,1189,network,5.44,5,Application crashing during use.
+765,1735,hardware,8.65,2,VPN connection dropping intermittently.
+766,1036,network,11.49,2,Application crashing during use.
+767,1779,hardware,9.86,2,Blue screen error on startup.
+768,1368,software,4.33,4,Frequent disconnections from corporate network.
+769,1694,hardware,11.22,1,Need assistance updating antivirus software.
+770,1524,software,4.71,4,VPN connection dropping intermittently.
+771,1278,network,8.69,3,Need assistance updating antivirus software.
+772,1216,software,3.73,5,Printer not responding to print commands.
+773,1866,network,7.85,3,Application crashing during use.
+774,1872,software,4.04,3,Frequent disconnections from corporate network.
+775,1797,hardware,4.59,5,Printer not responding to print commands.
+776,1272,network,8.96,3,Laptop overheating and shutting down.
+777,1880,software,3.15,5,Application crashing during use.
+778,1061,software,4.75,3,Blue screen error on startup.
+779,1595,hardware,12.78,1,Frequent disconnections from corporate network.
+780,1879,software,2.75,5,VPN connection dropping intermittently.
+781,1728,network,9.21,1,Frequent disconnections from corporate network.
+782,1341,software,4.55,4,Application crashing during use.
+783,1396,network,6.07,3,Software installation fails with error code.
+784,1698,software,8.03,4,Printer not responding to print commands.
+785,1018,hardware,10,2,Frequent disconnections from corporate network.
+786,1176,software,4.15,3,Need assistance updating antivirus software.
+787,1611,hardware,7.66,3,Printer not responding to print commands.
+788,1395,network,9.76,3,Need assistance updating antivirus software.
+789,1444,software,4.08,4,Frequent disconnections from corporate network.
+790,1232,hardware,12.27,1,Software installation fails with error code.
+791,1914,network,8,3,Printer not responding to print commands.
+792,1075,hardware,13.35,1,Blue screen error on startup.
+793,1264,network,5.91,3,Printer not responding to print commands.
+794,1454,software,3.65,4,VPN connection dropping intermittently.
+795,1795,hardware,9.16,2,Frequent disconnections from corporate network.
+796,1717,software,4.7,3,Laptop overheating and shutting down.
+797,1734,network,7.29,4,Application crashing during use.
+798,1383,software,8.95,2,Unable to connect to WiFi network.
+799,1563,software,8.09,2,Keyboard keys not working properly.
+800,1850,hardware,10.9,1,Laptop overheating and shutting down.
+801,1505,software,5.63,3,Need assistance updating antivirus software.
+802,1366,software,4.65,4,Blue screen error on startup.
+803,1143,software,3.43,5,Blue screen error on startup.
+804,1884,software,4.73,3,Keyboard keys not working properly.
+805,1068,software,6.16,3,Software installation fails with error code.
+806,1098,software,6.96,4,VPN connection dropping intermittently.
+807,1395,hardware,12.99,1,Application crashing during use.
+808,1024,software,2.74,5,Laptop overheating and shutting down.
+809,1947,software,4.57,4,Unable to connect to WiFi network.
+810,1890,network,5.06,4,Printer not responding to print commands.
+811,1468,network,10.34,2,Keyboard keys not working properly.
+812,1483,network,7.18,3,Software installation fails with error code.
+813,1564,network,7.91,4,Blue screen error on startup.
+814,1150,software,5.72,3,Unable to connect to WiFi network.
+815,1143,software,9.15,1,Blue screen error on startup.
+816,1568,software,5.4,3,Frequent disconnections from corporate network.
+817,1038,hardware,9.29,1,Keyboard keys not working properly.
+818,1108,hardware,6.28,3,Software installation fails with error code.
+819,1692,hardware,14.38,2,Printer not responding to print commands.
+820,1041,software,4.73,4,Need assistance updating antivirus software.
+821,1185,software,7.49,4,Software installation fails with error code.
+822,1934,software,6.66,3,Application crashing during use.
+823,1397,network,7.07,2,Printer not responding to print commands.
+824,1222,software,2.91,5,Laptop overheating and shutting down.
+825,1633,hardware,10.82,3,Software installation fails with error code.
+826,1132,hardware,8.16,3,Printer not responding to print commands.
+827,1162,network,8.08,3,Laptop overheating and shutting down.
+828,1214,software,6.57,5,Software installation fails with error code.
+829,1732,hardware,5.04,4,Unable to connect to WiFi network.
+830,1234,network,8.53,2,Need assistance updating antivirus software.
+831,1842,software,6.14,5,Unable to connect to WiFi network.
+832,1657,hardware,12.42,2,Application crashing during use.
+833,1750,software,2.95,4,Printer not responding to print commands.
+834,1587,network,8.84,3,Laptop overheating and shutting down.
+835,1008,software,6.81,4,Frequent disconnections from corporate network.
+836,1073,hardware,11.03,3,Software installation fails with error code.
+837,1953,software,4.83,3,Frequent disconnections from corporate network.
+838,1491,network,10.28,3,Software installation fails with error code.
+839,1912,software,3.96,5,Application crashing during use.
+840,1252,software,2.71,5,Frequent disconnections from corporate network.
+841,1229,software,4.7,3,Laptop overheating and shutting down.
+842,1518,software,5.8,4,VPN connection dropping intermittently.
+843,1173,network,10.08,3,Unable to connect to WiFi network.
+844,1652,hardware,11.59,1,Laptop overheating and shutting down.
+845,1167,network,9.67,1,Blue screen error on startup.
+846,1169,software,6.57,4,Keyboard keys not working properly.
+847,1392,network,7.32,3,Application crashing during use.
+848,1945,software,4.78,3,Need assistance updating antivirus software.
+849,1794,software,6.93,4,Software installation fails with error code.
+850,1633,software,3.18,5,Laptop overheating and shutting down.
+851,1193,network,8.86,2,Frequent disconnections from corporate network.
+852,1516,software,3.92,5,Keyboard keys not working properly.
+853,1028,network,10.2,1,VPN connection dropping intermittently.
+854,1164,software,4.97,4,Blue screen error on startup.
+855,1421,hardware,10.02,2,Frequent disconnections from corporate network.
+856,1338,software,7.59,3,Unable to connect to WiFi network.
+857,1647,software,3.39,5,VPN connection dropping intermittently.
+858,1495,software,5.32,3,Keyboard keys not working properly.
+859,1364,network,7.64,4,Printer not responding to print commands.
+860,1832,software,5.8,4,Printer not responding to print commands.
+861,1341,software,7.89,3,Keyboard keys not working properly.
+862,1499,software,4.09,4,Printer not responding to print commands.
+863,1656,network,5.61,4,Application crashing during use.
+864,1510,hardware,7.57,2,Laptop overheating and shutting down.
+865,1326,software,4.65,3,Software installation fails with error code.
+866,1216,hardware,10.19,1,Laptop overheating and shutting down.
+867,1300,software,5.17,4,Blue screen error on startup.
+868,1131,software,7.7,2,Laptop overheating and shutting down.
+869,1803,network,11.25,1,Laptop overheating and shutting down.
+870,1069,network,10.61,2,Unable to connect to WiFi network.
+871,1251,hardware,17.54,1,Software installation fails with error code.
+872,1414,network,9.65,2,Laptop overheating and shutting down.
+873,1786,hardware,13.33,1,Software installation fails with error code.
+874,1444,software,6.21,3,Need assistance updating antivirus software.
+875,1875,network,9.28,1,Printer not responding to print commands.
+876,1181,network,8.79,2,Frequent disconnections from corporate network.
+877,1166,network,7.21,4,Unable to connect to WiFi network.
+878,1090,hardware,6.26,4,Printer not responding to print commands.
+879,1713,software,4.8,3,Software installation fails with error code.
+880,1857,software,5.85,3,Printer not responding to print commands.
+881,1530,software,5.11,4,Laptop overheating and shutting down.
+882,1038,network,5.87,3,Frequent disconnections from corporate network.
+883,1125,software,4.75,3,Laptop overheating and shutting down.
+884,1450,network,7.56,3,Blue screen error on startup.
+885,1172,hardware,9.81,3,Laptop overheating and shutting down.
+886,1652,software,5.74,4,Frequent disconnections from corporate network.
+887,1753,software,6.06,4,VPN connection dropping intermittently.
+888,1219,software,4.25,5,Need assistance updating antivirus software.
+889,1637,software,6.47,3,Software installation fails with error code.
+890,1057,hardware,13.39,3,Need assistance updating antivirus software.
+891,1659,software,5.48,4,Blue screen error on startup.
+892,1475,network,9.33,1,Need assistance updating antivirus software.
+893,1455,software,6.48,5,Printer not responding to print commands.
+894,1828,network,5.8,3,Keyboard keys not working properly.
+895,1894,network,10.11,1,Unable to connect to WiFi network.
+896,1360,hardware,7.63,3,Frequent disconnections from corporate network.
+897,1934,software,3.96,5,Unable to connect to WiFi network.
+898,1000,hardware,10.59,1,Frequent disconnections from corporate network.
+899,1386,software,1.78,4,Software installation fails with error code.
+900,1972,software,5.26,4,Need assistance updating antivirus software.
+901,1347,network,9.96,2,Software installation fails with error code.
+902,1189,network,4.71,4,Laptop overheating and shutting down.
+903,1504,hardware,13.27,3,Laptop overheating and shutting down.
+904,1190,software,3.95,5,Unable to connect to WiFi network.
+905,1507,hardware,10.62,1,Application crashing during use.
+906,1368,software,4.17,4,Application crashing during use.
+907,1408,network,9.15,2,Keyboard keys not working properly.
+908,1823,software,6.54,3,Application crashing during use.
+909,1928,software,5.97,3,Blue screen error on startup.
+910,1933,network,7.99,4,Printer not responding to print commands.
+911,1116,hardware,8.57,4,Printer not responding to print commands.
+912,1133,software,4.9,4,Laptop overheating and shutting down.
+913,1057,network,9.31,1,Application crashing during use.
+914,1555,software,6.04,5,Keyboard keys not working properly.
+915,1684,hardware,11.65,3,Frequent disconnections from corporate network.
+916,1671,network,5.43,4,Laptop overheating and shutting down.
+917,1172,hardware,9.93,3,Software installation fails with error code.
+918,1828,network,6.73,5,Application crashing during use.
+919,1814,software,6,5,Laptop overheating and shutting down.
+920,1148,software,3.85,5,Application crashing during use.
+921,1079,software,5.68,4,Blue screen error on startup.
+922,1885,software,4.58,4,Keyboard keys not working properly.
+923,1212,software,2.18,5,Unable to connect to WiFi network.
+924,1202,software,6.4,4,VPN connection dropping intermittently.
+925,1763,software,4.96,4,Keyboard keys not working properly.
+926,1228,network,10.55,3,Application crashing during use.
+927,1675,hardware,5,4,Software installation fails with error code.
+928,1226,software,4.56,4,Software installation fails with error code.
+929,1658,hardware,9.35,1,Unable to connect to WiFi network.
+930,1531,network,8.54,3,Need assistance updating antivirus software.
+931,1440,software,3.01,5,Software installation fails with error code.
+932,1401,software,5.82,3,Laptop overheating and shutting down.
+933,1046,software,7.87,3,Software installation fails with error code.
+934,1232,software,5.71,3,VPN connection dropping intermittently.
+935,1304,network,8.19,2,Unable to connect to WiFi network.
+936,1525,software,2.93,5,Laptop overheating and shutting down.
+937,1142,software,3.84,4,Application crashing during use.
+938,1414,network,7.89,2,Keyboard keys not working properly.
+939,1512,software,4.21,3,Unable to connect to WiFi network.
+940,1372,software,6.54,3,VPN connection dropping intermittently.
+941,1565,network,9.07,2,Printer not responding to print commands.
+942,1885,hardware,18.08,1,VPN connection dropping intermittently.
+943,1258,hardware,7.06,4,Frequent disconnections from corporate network.
+944,1655,software,5.05,3,Frequent disconnections from corporate network.
+945,1470,network,5.23,3,Printer not responding to print commands.
+946,1952,software,1.67,5,Blue screen error on startup.
+947,1970,software,6.08,4,Software installation fails with error code.
+948,1011,software,5.74,4,Keyboard keys not working properly.
+949,1329,software,3.72,5,Need assistance updating antivirus software.
+950,1735,software,5.14,4,Need assistance updating antivirus software.
+951,1783,software,4.06,4,Keyboard keys not working properly.
+952,1967,software,4.26,4,VPN connection dropping intermittently.
+953,1357,software,4.52,5,Printer not responding to print commands.
+954,1971,hardware,7.31,2,Printer not responding to print commands.
+955,1407,software,3.93,4,Application crashing during use.
+956,1667,software,3.97,5,Unable to connect to WiFi network.
+957,1372,hardware,11.27,1,Laptop overheating and shutting down.
+958,1007,software,1,5,Frequent disconnections from corporate network.
+959,1121,software,4.66,4,Need assistance updating antivirus software.
+960,1347,software,3.37,4,Software installation fails with error code.
+961,1675,software,3.42,5,Laptop overheating and shutting down.
+962,1089,hardware,8.42,4,VPN connection dropping intermittently.
+963,1647,software,4.98,3,Application crashing during use.
+964,1697,hardware,9.36,3,Laptop overheating and shutting down.
+965,1315,network,5.87,3,Application crashing during use.
+966,1177,network,9.44,1,Need assistance updating antivirus software.
+967,1539,software,3.65,5,Need assistance updating antivirus software.
+968,1731,network,6.53,4,Software installation fails with error code.
+969,1868,network,8.57,2,Printer not responding to print commands.
+970,1040,software,5.48,3,VPN connection dropping intermittently.
+971,1739,network,6.78,4,Blue screen error on startup.
+972,1703,network,2.13,4,Keyboard keys not working properly.
+973,1922,hardware,7.34,3,Software installation fails with error code.
+974,1501,network,8.32,3,Need assistance updating antivirus software.
+975,1958,software,6.03,3,Unable to connect to WiFi network.
+976,1144,software,4.88,4,Printer not responding to print commands.
+977,1200,hardware,8.56,4,Keyboard keys not working properly.
+978,1928,network,12.59,1,Unable to connect to WiFi network.
+979,1723,hardware,8.88,2,Software installation fails with error code.
+980,1460,software,5.92,3,Laptop overheating and shutting down.
+981,1731,software,3,5,Blue screen error on startup.
+982,1751,software,3.36,5,Application crashing during use.
+983,1924,hardware,11.94,1,Keyboard keys not working properly.
+984,1908,software,6.57,3,Keyboard keys not working properly.
+985,1557,software,4.42,4,Software installation fails with error code.
+986,1546,software,2.23,5,Keyboard keys not working properly.
+987,1252,software,4.75,3,Application crashing during use.
+988,1389,hardware,10.57,3,Application crashing during use.
+989,1593,network,8.2,2,Unable to connect to WiFi network.
+990,1882,hardware,8.31,3,Laptop overheating and shutting down.
+991,1255,network,7.69,3,Application crashing during use.
+992,1708,network,6.5,,Blue screen error on startup.
+993,1814,network,5.78,3,Keyboard keys not working properly.
+994,1920,software,6.13,4,Unable to connect to WiFi network.
+995,1449,software,5.15,3,Need assistance updating antivirus software.
+996,1009,network,7.7,2,Unable to connect to WiFi network.
+997,1823,network,6.99,4,Blue screen error on startup.
+998,1797,hardware,9.46,2,Printer not responding to print commands.
+999,1241,hardware,10.48,1,Unable to connect to WiFi network.
+1000,1250,hardware,15.19,1,Need assistance updating antivirus software.
+1001,1876,hardware,11.96,3,Application crashing during use.
+1002,1004,software,4,5,Frequent disconnections from corporate network.
+1003,1118,network,6.69,3,Frequent disconnections from corporate network.
+1004,1800,software,3.78,5,Frequent disconnections from corporate network.
+1005,1373,software,4.7,4,Printer not responding to print commands.
+1006,1064,network,6.38,4,Need assistance updating antivirus software.
+1007,1145,software,5.71,5,Blue screen error on startup.
+1008,1223,network,2.71,4,Software installation fails with error code.
+1009,1238,software,5.8,4,Frequent disconnections from corporate network.
+1010,1176,software,5.41,4,Software installation fails with error code.
+1011,1778,software,6.89,4,Printer not responding to print commands.
+1012,1852,software,6.32,4,Software installation fails with error code.
+1013,1281,software,3.97,5,Keyboard keys not working properly.
+1014,1062,network,9.53,1,Printer not responding to print commands.
+1015,1216,network,7.66,2,Software installation fails with error code.
+1016,1853,hardware,4.2,3,Unable to connect to WiFi network.
+1017,1826,software,5.24,5,Frequent disconnections from corporate network.
+1018,1794,network,6.75,4,Laptop overheating and shutting down.
+1019,1688,hardware,10,2,VPN connection dropping intermittently.
+1020,1460,network,11.3,1,Printer not responding to print commands.
+1021,1928,software,5.34,5,Application crashing during use.
+1022,1609,network,5.97,5,VPN connection dropping intermittently.
+1023,1104,software,6.45,4,Blue screen error on startup.
+1024,1098,software,5.54,3,Printer not responding to print commands.
+1025,1510,network,5.73,3,Printer not responding to print commands.
+1026,1384,hardware,5.18,4,Software installation fails with error code.
+1027,1404,software,3.53,5,Printer not responding to print commands.
+1028,1822,network,9.67,1,Frequent disconnections from corporate network.
+1029,1517,network,7.4,,Need assistance updating antivirus software.
+1030,1475,network,8.16,2,Need assistance updating antivirus software.
+1031,1976,network,5.32,4,Blue screen error on startup.
+1032,1708,software,6.29,4,Keyboard keys not working properly.
+1033,1862,hardware,3.95,4,Laptop overheating and shutting down.
+1034,1644,software,4.02,4,Keyboard keys not working properly.
+1035,1869,network,8.84,2,Frequent disconnections from corporate network.
+1036,1770,network,5.75,3,Frequent disconnections from corporate network.
+1037,1436,network,9.23,3,Unable to connect to WiFi network.
+1038,1022,software,3.7,4,Need assistance updating antivirus software.
+1039,1996,software,3.16,5,VPN connection dropping intermittently.
+1040,1564,network,10.57,1,Application crashing during use.
+1041,1676,software,5.23,3,Printer not responding to print commands.
+1042,1713,hardware,11.56,1,Laptop overheating and shutting down.
+1043,1457,software,6.53,3,Application crashing during use.
+1044,1082,hardware,2.14,5,Keyboard keys not working properly.
+1045,1144,software,5.95,3,Application crashing during use.
+1046,1084,software,3.86,5,Unable to connect to WiFi network.
+1047,1077,software,4.06,3,Laptop overheating and shutting down.
+1048,1456,software,5.66,3,Laptop overheating and shutting down.
+1049,1877,network,7.27,2,Unable to connect to WiFi network.
+1050,1000,software,5.89,5,Frequent disconnections from corporate network.
+1051,1050,network,7.92,3,Unable to connect to WiFi network.
+1052,1684,software,5.25,4,Frequent disconnections from corporate network.
+1053,1716,network,7.02,2,VPN connection dropping intermittently.
+1054,1771,hardware,6.81,5,Blue screen error on startup.
+1055,1445,software,3.89,4,Frequent disconnections from corporate network.
+1056,1448,software,4.85,3,Application crashing during use.
+1057,1880,network,11.67,2,Frequent disconnections from corporate network.
+1058,1487,hardware,14.42,1,Blue screen error on startup.
+1059,1799,hardware,8.04,4,Keyboard keys not working properly.
+1060,1033,software,5.09,3,Printer not responding to print commands.
+1061,1347,network,7.42,4,Unable to connect to WiFi network.
+1062,1094,software,5.2,4,Printer not responding to print commands.
+1063,1071,network,8.52,3,Unable to connect to WiFi network.
+1064,1550,network,9.06,1,VPN connection dropping intermittently.
+1065,1153,software,1,4,Need assistance updating antivirus software.
+1066,1249,software,5.55,5,Application crashing during use.
+1067,1673,software,4.4,3,Application crashing during use.
+1068,1437,hardware,7.89,3,Keyboard keys not working properly.
+1069,1117,software,6.19,5,Need assistance updating antivirus software.
+1070,1770,software,7.2,2,Need assistance updating antivirus software.
+1071,1890,software,6.03,4,Unable to connect to WiFi network.
+1072,1305,hardware,8.44,3,Application crashing during use.
+1073,1267,network,5.85,3,Application crashing during use.
+1074,1960,hardware,1,4,Need assistance updating antivirus software.
+1075,1053,hardware,10.55,1,Unable to connect to WiFi network.
+1076,1235,network,9.16,1,Frequent disconnections from corporate network.
+1077,1388,software,4.85,4,Frequent disconnections from corporate network.
+1078,1989,hardware,12.8,1,Blue screen error on startup.
+1079,1733,software,3.02,5,Software installation fails with error code.
+1080,1762,hardware,9.49,1,Laptop overheating and shutting down.
+1081,1824,hardware,9.25,2,VPN connection dropping intermittently.
+1082,1400,software,4.83,4,Unable to connect to WiFi network.
+1083,1623,software,6.75,3,Frequent disconnections from corporate network.
+1084,1766,hardware,9.69,1,Keyboard keys not working properly.
+1085,1302,software,4.56,4,Laptop overheating and shutting down.
+1086,1918,network,6.13,5,Laptop overheating and shutting down.
+1087,1206,network,10.66,1,Laptop overheating and shutting down.
+1088,1228,software,2.85,5,Need assistance updating antivirus software.
+1089,1852,hardware,8.34,2,Blue screen error on startup.
+1090,1909,hardware,15.08,1,Keyboard keys not working properly.
+1091,1577,software,5.7,4,Software installation fails with error code.
+1092,1074,network,7.96,4,Keyboard keys not working properly.
+1093,1434,network,8.04,2,Keyboard keys not working properly.
+1094,1102,hardware,7.16,4,Unable to connect to WiFi network.
+1095,1421,network,7.86,2,Blue screen error on startup.
+1096,1703,network,7.3,3,Printer not responding to print commands.
+1097,1763,network,8.36,3,Blue screen error on startup.
+1098,1737,software,2.74,5,Printer not responding to print commands.
+1099,1805,hardware,11.19,1,Software installation fails with error code.
+1100,1305,network,10.03,1,Unable to connect to WiFi network.
+1101,1097,software,4.69,4,Need assistance updating antivirus software.
+1102,1849,software,5.97,4,Laptop overheating and shutting down.
+1103,1797,hardware,10.93,1,Unable to connect to WiFi network.
+1104,1334,network,6.78,5,Need assistance updating antivirus software.
+1105,1858,software,3.41,5,Unable to connect to WiFi network.
+1106,1434,software,3.62,5,Need assistance updating antivirus software.
+1107,1446,hardware,10.88,1,Unable to connect to WiFi network.
+1108,1993,software,4.92,3,Blue screen error on startup.
+1109,1307,network,10.55,1,Blue screen error on startup.
+1110,1248,software,6.19,4,Blue screen error on startup.
+1111,1165,software,6.18,4,Laptop overheating and shutting down.
+1112,1480,network,8.53,2,VPN connection dropping intermittently.
+1113,1983,hardware,7.11,2,Application crashing during use.
+1114,1334,network,8.65,2,Printer not responding to print commands.
+1115,1541,software,5.1,4,Blue screen error on startup.
+1116,1758,software,3.29,5,VPN connection dropping intermittently.
+1117,1105,software,6.81,3,Printer not responding to print commands.
+1118,1562,software,6.65,3,Unable to connect to WiFi network.
+1119,1080,hardware,6.57,4,Software installation fails with error code.
+1120,1132,software,4.04,3,Need assistance updating antivirus software.
+1121,1796,software,4.18,3,VPN connection dropping intermittently.
+1122,1899,software,5.91,3,Keyboard keys not working properly.
+1123,1137,software,5.74,4,Frequent disconnections from corporate network.
+1124,1183,network,8.09,3,VPN connection dropping intermittently.
+1125,1400,software,5.41,4,Blue screen error on startup.
+1126,1329,hardware,6.14,3,Blue screen error on startup.
+1127,1784,network,8.76,3,VPN connection dropping intermittently.
+1128,1507,software,4.85,3,Need assistance updating antivirus software.
+1129,1851,hardware,7.96,4,Printer not responding to print commands.
+1130,1983,network,4.93,4,Unable to connect to WiFi network.
+1131,1068,software,5.04,4,Frequent disconnections from corporate network.
+1132,1545,software,5.54,3,Unable to connect to WiFi network.
+1133,1773,software,2.45,4,Laptop overheating and shutting down.
+1134,1052,network,8.04,3,Need assistance updating antivirus software.
+1135,1449,network,8.24,3,Blue screen error on startup.
+1136,1204,software,4.17,3,Laptop overheating and shutting down.
+1137,1125,hardware,11.14,3,Unable to connect to WiFi network.
+1138,1746,software,4.8,5,Unable to connect to WiFi network.
+1139,1042,software,5.42,4,Frequent disconnections from corporate network.
+1140,1751,network,9.07,3,Application crashing during use.
+1141,1970,software,5.8,3,Unable to connect to WiFi network.
+1142,1882,network,10.03,1,Printer not responding to print commands.
+1143,1110,hardware,11.01,1,Printer not responding to print commands.
+1144,1760,hardware,8.57,3,VPN connection dropping intermittently.
+1145,1662,software,4.03,3,Frequent disconnections from corporate network.
+1146,1182,hardware,6.81,5,Frequent disconnections from corporate network.
+1147,1847,network,8.3,2,Blue screen error on startup.
+1148,1094,software,6.98,3,Unable to connect to WiFi network.
+1149,1970,software,4.46,5,Application crashing during use.
+1150,1373,hardware,11.35,1,Keyboard keys not working properly.
+1151,1911,network,6.5,3,Laptop overheating and shutting down.
+1152,1519,software,5.29,4,Frequent disconnections from corporate network.
+1153,1899,hardware,13.78,1,VPN connection dropping intermittently.
+1154,1359,network,9.37,1,VPN connection dropping intermittently.
+1155,1899,software,2.64,4,Unable to connect to WiFi network.
+1156,1695,software,5.86,4,Unable to connect to WiFi network.
+1157,1280,software,5.92,5,Keyboard keys not working properly.
+1158,1194,network,8.35,4,Software installation fails with error code.
+1159,1863,network,9.34,1,Software installation fails with error code.
+1160,1194,network,6.33,3,Unable to connect to WiFi network.
+1161,1666,hardware,10.19,1,Need assistance updating antivirus software.
+1162,1092,software,6.67,5,Printer not responding to print commands.
+1163,1671,network,10.04,1,Printer not responding to print commands.
+1164,1945,software,5.82,3,Keyboard keys not working properly.
+1165,1060,software,3.68,5,Keyboard keys not working properly.
+1166,1633,network,5.92,5,Blue screen error on startup.
+1167,1050,software,5.17,3,Application crashing during use.
+1168,1402,software,5.27,3,VPN connection dropping intermittently.
+1169,1788,software,4.85,3,Printer not responding to print commands.
+1170,1004,software,3.79,4,Need assistance updating antivirus software.
+1171,1465,network,8.87,3,Unable to connect to WiFi network.
+1172,1603,software,5.17,4,Frequent disconnections from corporate network.
+1173,1681,software,5.43,4,Need assistance updating antivirus software.
+1174,1828,software,5.89,3,Blue screen error on startup.
+1175,1533,software,4.59,3,Need assistance updating antivirus software.
+1176,1404,software,4.27,3,Frequent disconnections from corporate network.
+1177,1837,hardware,13.32,1,Laptop overheating and shutting down.
+1178,1512,software,3.86,5,Software installation fails with error code.
+1179,1644,software,4.3,3,Laptop overheating and shutting down.
+1180,1232,hardware,13.7,1,VPN connection dropping intermittently.
+1181,1523,software,4.18,3,VPN connection dropping intermittently.
+1182,1345,network,7.8,3,Printer not responding to print commands.
+1183,1045,network,7.18,3,Frequent disconnections from corporate network.
+1184,1545,network,4.43,5,VPN connection dropping intermittently.
+1185,1944,hardware,9.63,1,Keyboard keys not working properly.
+1186,1077,software,3.48,5,Printer not responding to print commands.
+1187,1729,hardware,10.76,1,Blue screen error on startup.
+1188,1812,software,6.66,3,Printer not responding to print commands.
+1189,1922,software,1.68,5,Laptop overheating and shutting down.
+1190,1072,network,7.19,2,Unable to connect to WiFi network.
+1191,1793,software,5.68,4,Keyboard keys not working properly.
+1192,1248,software,1.72,4,Keyboard keys not working properly.
+1193,1046,hardware,14.01,2,Application crashing during use.
+1194,1120,network,8.76,3,Keyboard keys not working properly.
+1195,1213,software,6.62,5,Keyboard keys not working properly.
+1196,1238,software,4.15,5,Laptop overheating and shutting down.
+1197,1055,software,4.34,4,Need assistance updating antivirus software.
+1198,1349,software,4.76,3,Keyboard keys not working properly.
+1199,1106,software,8.21,3,Unable to connect to WiFi network.
+1200,1830,network,10.64,2,Software installation fails with error code.
+1201,1047,software,5.2,3,Laptop overheating and shutting down.
+1202,1572,software,5.38,4,Laptop overheating and shutting down.
+1203,1336,hardware,11.9,3,Need assistance updating antivirus software.
+1204,1025,hardware,17.17,1,Application crashing during use.
+1205,1803,software,5.57,3,Need assistance updating antivirus software.
+1206,1256,network,8.09,4,Printer not responding to print commands.
+1207,1007,hardware,8.98,2,Software installation fails with error code.
+1208,1624,software,5.35,3,VPN connection dropping intermittently.
+1209,1866,hardware,8.24,3,Blue screen error on startup.
+1210,1252,network,8.99,2,VPN connection dropping intermittently.
+1211,1691,software,2.85,5,Application crashing during use.
+1212,1718,hardware,9.22,1,Application crashing during use.
+1213,1302,hardware,12.2,1,Keyboard keys not working properly.
+1214,1638,software,5.55,3,Need assistance updating antivirus software.
+1215,1055,software,4.31,5,Printer not responding to print commands.
+1216,1725,software,4.65,4,Keyboard keys not working properly.
+1217,1525,network,10.07,1,Frequent disconnections from corporate network.
+1218,1473,software,3.18,4,Printer not responding to print commands.
+1219,1027,software,3.19,4,Application crashing during use.
+1220,1982,hardware,7.21,3,Application crashing during use.
+1221,1077,software,4.98,3,Laptop overheating and shutting down.
+1222,1215,network,5.29,4,Frequent disconnections from corporate network.
+1223,1385,network,9.91,,Keyboard keys not working properly.
+1224,1364,software,3.61,5,Application crashing during use.
+1225,1665,software,5.34,4,Frequent disconnections from corporate network.
+1226,1525,software,4.13,4,Software installation fails with error code.
+1227,1698,software,4.9,3,Blue screen error on startup.
+1228,1311,hardware,5.19,4,Need assistance updating antivirus software.
+1229,1882,hardware,13,2,Application crashing during use.
+1230,1006,software,3.56,4,Software installation fails with error code.
+1231,1002,hardware,6.8,5,Printer not responding to print commands.
+1232,1622,software,8.57,2,Need assistance updating antivirus software.
+1233,1918,software,5.83,3,Frequent disconnections from corporate network.
+1234,1749,network,9.92,1,Need assistance updating antivirus software.
+1235,1362,software,5.69,5,VPN connection dropping intermittently.
+1236,1750,software,4.32,4,Laptop overheating and shutting down.
+1237,1507,hardware,6.08,4,Frequent disconnections from corporate network.
+1238,1273,software,4.55,3,Software installation fails with error code.
+1239,1505,hardware,7.07,3,Application crashing during use.
+1240,1805,software,3.62,5,Frequent disconnections from corporate network.
+1241,1738,network,4.83,5,Unable to connect to WiFi network.
+1242,1882,hardware,10.34,1,VPN connection dropping intermittently.
+1243,1014,software,7.36,2,Software installation fails with error code.
+1244,1191,software,5.84,3,Printer not responding to print commands.
+1245,1984,software,4.84,5,Unable to connect to WiFi network.
+1246,1630,network,7.92,3,Frequent disconnections from corporate network.
+1247,1484,software,1,5,Laptop overheating and shutting down.
+1248,1027,software,4.36,4,Unable to connect to WiFi network.
+1249,1713,software,2.86,5,Need assistance updating antivirus software.
+1250,1038,hardware,10.4,3,Frequent disconnections from corporate network.
+1251,1952,software,4.61,4,Software installation fails with error code.
+1252,1272,network,6.26,3,Frequent disconnections from corporate network.
+1253,1230,software,5.17,3,Laptop overheating and shutting down.
+1254,1085,hardware,10.31,3,Blue screen error on startup.
+1255,1473,network,11.04,1,Need assistance updating antivirus software.
+1256,1125,network,9.37,1,Application crashing during use.
+1257,1811,network,8.43,3,Frequent disconnections from corporate network.
+1258,1536,network,6.1,5,Laptop overheating and shutting down.
+1259,1144,hardware,6.78,3,Unable to connect to WiFi network.
+1260,1524,software,5.9,4,Unable to connect to WiFi network.
+1261,1211,software,4.7,5,Software installation fails with error code.
+1262,1024,software,5.37,4,Need assistance updating antivirus software.
+1263,1579,software,6.47,3,Unable to connect to WiFi network.
+1264,1393,hardware,5.46,5,Application crashing during use.
+1265,1066,hardware,14.19,3,Blue screen error on startup.
+1266,1232,software,6.45,5,Blue screen error on startup.
+1267,1108,hardware,3.84,5,Software installation fails with error code.
+1268,1145,software,8.53,2,Frequent disconnections from corporate network.
+1269,1110,software,5.48,5,Unable to connect to WiFi network.
+1270,1227,network,7.04,2,Laptop overheating and shutting down.
+1271,1110,software,5.78,5,Printer not responding to print commands.
+1272,1469,software,3.53,5,Blue screen error on startup.
+1273,1033,hardware,11.64,2,Keyboard keys not working properly.
+1274,1622,software,3.81,5,Software installation fails with error code.
+1275,1775,hardware,16.06,2,Frequent disconnections from corporate network.
+1276,1935,software,5.09,3,VPN connection dropping intermittently.
+1277,1368,hardware,11.95,2,Software installation fails with error code.
+1278,1747,software,3.82,4,Laptop overheating and shutting down.
+1279,1594,software,6.22,4,Printer not responding to print commands.
+1280,1553,software,4.98,3,Keyboard keys not working properly.
+1281,1424,hardware,5.76,4,Blue screen error on startup.
+1282,1612,network,7.52,4,Need assistance updating antivirus software.
+1283,1517,hardware,15.79,3,Keyboard keys not working properly.
+1284,1691,network,9.72,1,Blue screen error on startup.
+1285,1281,software,4.43,4,VPN connection dropping intermittently.
+1286,1319,hardware,4.39,4,VPN connection dropping intermittently.
+1287,1737,network,6.34,5,Blue screen error on startup.
+1288,1442,network,5.19,4,Need assistance updating antivirus software.
+1289,1951,software,2.23,5,Software installation fails with error code.
+1290,1314,hardware,12.36,3,Need assistance updating antivirus software.
+1291,1876,network,8.12,2,Unable to connect to WiFi network.
+1292,1965,hardware,15.39,3,Blue screen error on startup.
+1293,1740,network,6,5,Blue screen error on startup.
+1294,1376,hardware,9.99,3,Need assistance updating antivirus software.
+1295,1288,hardware,5.82,3,Application crashing during use.
+1296,1436,software,4.11,4,Application crashing during use.
+1297,1661,software,4.67,5,Laptop overheating and shutting down.
+1298,1276,software,4.44,3,Application crashing during use.
+1299,1709,software,5.08,4,VPN connection dropping intermittently.
+1300,1581,network,9.94,1,Unable to connect to WiFi network.
+1301,1502,network,9.73,1,Blue screen error on startup.
+1302,1623,network,6.46,4,Keyboard keys not working properly.
+1303,1515,software,4.95,4,VPN connection dropping intermittently.
+1304,1349,network,9.59,1,Laptop overheating and shutting down.
+1305,1842,software,6.55,4,Printer not responding to print commands.
+1306,1445,hardware,8.02,3,Unable to connect to WiFi network.
+1307,1829,software,6.06,4,Application crashing during use.
+1308,1349,software,5.5,4,Frequent disconnections from corporate network.
+1309,1606,software,3.4,5,Software installation fails with error code.
+1310,1663,hardware,12.4,1,Keyboard keys not working properly.
+1311,1822,hardware,10.45,1,Blue screen error on startup.
+1312,1136,hardware,4.78,4,Printer not responding to print commands.
+1313,1758,hardware,9.12,2,Software installation fails with error code.
+1314,1898,network,8.08,3,Need assistance updating antivirus software.
+1315,1242,hardware,8.18,2,Need assistance updating antivirus software.
+1316,1542,software,6.84,4,Unable to connect to WiFi network.
+1317,1039,network,10.53,1,Unable to connect to WiFi network.
+1318,1228,hardware,8.85,4,Unable to connect to WiFi network.
+1319,1547,network,7.02,2,VPN connection dropping intermittently.
+1320,1919,software,4.8,5,VPN connection dropping intermittently.
+1321,1222,network,7.6,3,Need assistance updating antivirus software.
+1322,1005,software,4.11,4,Unable to connect to WiFi network.
+1323,1321,software,1,4,Keyboard keys not working properly.
+1324,1467,software,7.63,2,Laptop overheating and shutting down.
+1325,1731,software,5,3,Unable to connect to WiFi network.
+1326,1074,software,4.73,3,Blue screen error on startup.
+1327,1003,hardware,10.98,2,Keyboard keys not working properly.
+1328,1846,network,7.84,2,Blue screen error on startup.
+1329,1645,software,4.35,4,Frequent disconnections from corporate network.
+1330,1117,hardware,6.98,3,Need assistance updating antivirus software.
+1331,1880,hardware,4.48,5,Unable to connect to WiFi network.
+1332,1605,software,2.97,,Application crashing during use.
+1333,1503,software,3.32,4,Software installation fails with error code.
+1334,1997,hardware,11.95,1,Unable to connect to WiFi network.
+1335,1946,hardware,12.17,1,Laptop overheating and shutting down.
+1336,1573,software,3.68,4,Frequent disconnections from corporate network.
+1337,1440,network,2.67,5,Unable to connect to WiFi network.
+1338,1193,network,8.02,3,Software installation fails with error code.
+1339,1846,network,7.16,4,Software installation fails with error code.
+1340,1714,software,4.33,4,VPN connection dropping intermittently.
+1341,1391,network,9.91,3,Laptop overheating and shutting down.
+1342,1025,software,5.21,,Laptop overheating and shutting down.
+1343,1434,software,3.54,5,Keyboard keys not working properly.
+1344,1172,network,5.59,4,Application crashing during use.
+1345,1299,hardware,9.21,1,Laptop overheating and shutting down.
+1346,1644,software,3.64,4,Frequent disconnections from corporate network.
+1347,1325,network,7.86,3,Application crashing during use.
+1348,1409,hardware,13.08,1,VPN connection dropping intermittently.
+1349,1117,network,5.24,3,Laptop overheating and shutting down.
+1350,1835,software,5.13,4,VPN connection dropping intermittently.
+1351,1786,software,6.37,3,Software installation fails with error code.
+1352,1723,software,4.87,4,Unable to connect to WiFi network.
+1353,1224,hardware,12.16,1,Laptop overheating and shutting down.
+1354,1531,software,4.57,4,Software installation fails with error code.
+1355,1112,software,5.26,4,Unable to connect to WiFi network.
+1356,1139,network,8.88,2,Unable to connect to WiFi network.
+1357,1558,network,6.86,4,Software installation fails with error code.
+1358,1000,hardware,15.97,2,Blue screen error on startup.
+1359,1089,software,5.87,3,Application crashing during use.
+1360,1653,software,6.95,3,Blue screen error on startup.
+1361,1319,software,6.61,3,Need assistance updating antivirus software.
+1362,1549,software,5.49,4,Printer not responding to print commands.
+1363,1804,network,10.77,2,Unable to connect to WiFi network.
+1364,1893,software,5.28,3,Keyboard keys not working properly.
+1365,1138,software,3.91,5,Application crashing during use.
+1366,1510,network,8.03,2,Unable to connect to WiFi network.
+1367,1867,network,5.99,5,Frequent disconnections from corporate network.
+1368,1844,network,3.8,5,Keyboard keys not working properly.
+1369,1258,software,3.72,5,Need assistance updating antivirus software.
+1370,1672,hardware,10.22,1,Need assistance updating antivirus software.
+1371,1901,network,10.12,2,Frequent disconnections from corporate network.
+1372,1689,network,6.29,4,Software installation fails with error code.
+1373,1009,software,6.52,4,Application crashing during use.
+1374,1260,software,3.18,5,VPN connection dropping intermittently.
+1375,1918,software,3.62,5,Application crashing during use.
+1376,1649,software,7.17,3,Keyboard keys not working properly.
+1377,1171,software,5.07,4,Blue screen error on startup.
+1378,1897,software,4.74,4,VPN connection dropping intermittently.
+1379,1012,hardware,10.71,3,Need assistance updating antivirus software.
+1380,1167,hardware,6.38,4,Need assistance updating antivirus software.
+1381,1641,network,7.34,2,Software installation fails with error code.
+1382,1595,network,8.01,3,Printer not responding to print commands.
+1383,1320,network,10.46,2,Application crashing during use.
+1384,1318,software,2.49,5,Software installation fails with error code.
+1385,1612,hardware,15.29,3,Keyboard keys not working properly.
+1386,1328,software,4.81,4,VPN connection dropping intermittently.
+1387,1784,network,5.78,3,Frequent disconnections from corporate network.
+1388,1776,software,3.06,5,Unable to connect to WiFi network.
+1389,1970,software,5.41,4,Blue screen error on startup.
+1390,1910,network,5.31,5,Keyboard keys not working properly.
+1391,1919,software,4.16,3,Unable to connect to WiFi network.
+1392,1549,software,4.63,3,Application crashing during use.
+1393,1418,software,6.72,3,Frequent disconnections from corporate network.
+1394,1605,network,10.04,2,Need assistance updating antivirus software.
+1395,1094,network,6.71,5,Software installation fails with error code.
+1396,1816,software,4.68,3,VPN connection dropping intermittently.
+1397,1580,network,4.81,4,Software installation fails with error code.
+1398,1317,software,1.94,5,VPN connection dropping intermittently.
+1399,1955,software,3.16,5,Printer not responding to print commands.
+1400,1235,software,6.68,3,Printer not responding to print commands.
+1401,1945,hardware,12.34,3,Software installation fails with error code.
+1402,1333,software,5.58,3,VPN connection dropping intermittently.
+1403,1884,network,5.08,4,VPN connection dropping intermittently.
+1404,1375,software,3.93,4,Unable to connect to WiFi network.
+1405,1458,software,3.71,5,Software installation fails with error code.
+1406,1136,software,4.75,5,Laptop overheating and shutting down.
+1407,1929,network,7.54,2,Application crashing during use.
+1408,1587,hardware,6.99,3,Need assistance updating antivirus software.
+1409,1994,software,5.52,4,Printer not responding to print commands.
+1410,1546,network,8.46,3,Laptop overheating and shutting down.
+1411,1512,network,6.54,4,Printer not responding to print commands.
+1412,1295,network,8.61,2,Frequent disconnections from corporate network.
+1413,1319,hardware,13.37,1,Printer not responding to print commands.
+1414,1917,network,10.86,1,Keyboard keys not working properly.
+1415,1571,network,8.98,2,Printer not responding to print commands.
+1416,1831,hardware,11.38,3,Unable to connect to WiFi network.
+1417,1348,software,4.64,3,Laptop overheating and shutting down.
+1418,1839,network,10.06,1,Frequent disconnections from corporate network.
+1419,1778,network,5.86,3,VPN connection dropping intermittently.
+1420,1872,network,9.83,1,VPN connection dropping intermittently.
+1421,1228,network,7.42,3,Frequent disconnections from corporate network.
+1422,1269,software,7.24,3,Blue screen error on startup.
+1423,1827,network,9.18,1,Software installation fails with error code.
+1424,1797,network,7.86,2,Blue screen error on startup.
+1425,1290,software,4.65,3,Laptop overheating and shutting down.
+1426,1724,software,5.79,4,Printer not responding to print commands.
+1427,1164,software,5.72,4,VPN connection dropping intermittently.
+1428,1004,software,4.4,3,Unable to connect to WiFi network.
+1429,1850,software,5.14,4,Blue screen error on startup.
+1430,1378,software,6.34,4,Printer not responding to print commands.
+1431,1077,software,2.95,5,Need assistance updating antivirus software.
+1432,1409,software,6.09,5,Software installation fails with error code.
+1433,1573,hardware,11.56,1,Frequent disconnections from corporate network.
+1434,1131,network,10.37,1,Printer not responding to print commands.
+1435,1600,software,3.93,4,Software installation fails with error code.
+1436,1748,network,8.01,3,Software installation fails with error code.
+1437,1041,software,5.31,5,VPN connection dropping intermittently.
+1438,1088,software,6.11,4,VPN connection dropping intermittently.
+1439,1401,hardware,11.29,1,Laptop overheating and shutting down.
+1440,1295,network,5.52,4,Need assistance updating antivirus software.
+1441,1839,software,5.44,3,Frequent disconnections from corporate network.
+1442,1294,software,8.01,2,Software installation fails with error code.
+1443,1615,software,5.92,4,Laptop overheating and shutting down.
+1444,1525,software,7.46,2,Keyboard keys not working properly.
+1445,1799,software,6.56,3,Blue screen error on startup.
+1446,1690,software,7.04,3,Application crashing during use.
+1447,1636,software,5.46,3,Software installation fails with error code.
+1448,1421,software,5.78,3,Laptop overheating and shutting down.
+1449,1864,network,8.51,2,Need assistance updating antivirus software.
+1450,1022,hardware,10.01,3,VPN connection dropping intermittently.
+1451,1574,software,6.11,4,Software installation fails with error code.
+1452,1142,hardware,8.44,2,Software installation fails with error code.
+1453,1992,network,11.77,2,Printer not responding to print commands.
+1454,1664,hardware,7.22,2,Need assistance updating antivirus software.
+1455,1144,hardware,12.43,2,Frequent disconnections from corporate network.
+1456,1224,software,7.07,3,VPN connection dropping intermittently.
+1457,1502,software,4.74,5,Software installation fails with error code.
+1458,1961,software,3.33,5,Blue screen error on startup.
+1459,1973,hardware,13.47,3,VPN connection dropping intermittently.
+1460,1820,software,5.31,5,Blue screen error on startup.
+1461,1615,network,9.63,3,Application crashing during use.
+1462,1103,software,4.84,4,Frequent disconnections from corporate network.
+1463,1946,hardware,15.2,1,Application crashing during use.
+1464,1038,hardware,3.65,5,Software installation fails with error code.
+1465,1946,hardware,11.13,1,Printer not responding to print commands.
+1466,1197,software,7.01,2,Frequent disconnections from corporate network.
+1467,1645,network,8.21,3,Printer not responding to print commands.
+1468,1578,network,8.6,,Laptop overheating and shutting down.
+1469,1390,network,7.13,,Keyboard keys not working properly.
+1470,1178,network,8.04,2,Need assistance updating antivirus software.
+1471,1967,software,2.49,4,Laptop overheating and shutting down.
+1472,1553,network,6.56,4,Application crashing during use.
+1473,1447,software,3.82,5,Blue screen error on startup.
+1474,1499,hardware,12.01,1,Application crashing during use.
+1475,1014,software,4.14,5,Frequent disconnections from corporate network.
+1476,1622,hardware,8.37,3,Frequent disconnections from corporate network.
+1477,1668,software,4.43,4,Application crashing during use.
+1478,1288,network,6.5,5,Software installation fails with error code.
+1479,1477,software,5.4,4,Application crashing during use.
+1480,1230,network,8.76,3,Frequent disconnections from corporate network.
+1481,1922,software,6.24,5,Frequent disconnections from corporate network.
+1482,1419,software,5.98,3,VPN connection dropping intermittently.
+1483,1156,network,9.11,,Unable to connect to WiFi network.
+1484,1549,network,7.34,2,Printer not responding to print commands.
+1485,1440,software,4.41,3,Laptop overheating and shutting down.
+1486,1096,hardware,7.39,4,Application crashing during use.
+1487,1996,software,3.67,5,VPN connection dropping intermittently.
+1488,1410,software,5.29,4,Software installation fails with error code.
+1489,1950,network,6.56,5,Frequent disconnections from corporate network.
+1490,1288,software,7.2,4,Application crashing during use.
+1491,1253,software,4.94,5,Frequent disconnections from corporate network.
+1492,1195,software,7.25,3,Blue screen error on startup.
+1493,1597,hardware,11.72,1,VPN connection dropping intermittently.
+1494,1833,software,3.83,4,Application crashing during use.
+1495,1521,hardware,9.81,1,Blue screen error on startup.
+1496,1516,hardware,4.98,3,Keyboard keys not working properly.
+1497,1634,network,8.38,3,VPN connection dropping intermittently.
+1498,1841,software,3.97,5,Application crashing during use.
+1499,1864,hardware,6.66,5,Application crashing during use.
+1500,1117,network,11.04,2,Need assistance updating antivirus software.
+1501,1805,software,6.55,4,VPN connection dropping intermittently.
+1502,1908,hardware,13.01,1,VPN connection dropping intermittently.
+1503,1158,software,6.17,3,Frequent disconnections from corporate network.
+1504,1814,network,5.53,,Application crashing during use.
+1505,1227,software,4.4,4,Printer not responding to print commands.
+1506,1876,network,7.32,2,Printer not responding to print commands.
+1507,1215,software,2.44,5,Printer not responding to print commands.
+1508,1947,network,6.89,4,Keyboard keys not working properly.
+1509,1695,software,4.18,3,Application crashing during use.
+1510,1014,software,5.19,3,Application crashing during use.
+1511,1156,software,8.8,3,Blue screen error on startup.
+1512,1647,software,4.97,4,Need assistance updating antivirus software.
+1513,1260,software,5.19,4,VPN connection dropping intermittently.
+1514,1156,software,4.62,4,Frequent disconnections from corporate network.
+1515,1046,network,9.48,2,Need assistance updating antivirus software.
+1516,1323,software,3.39,5,Blue screen error on startup.
+1517,1843,network,11.79,2,Application crashing during use.
+1518,1684,hardware,9.63,3,Laptop overheating and shutting down.
+1519,1129,network,7.21,2,VPN connection dropping intermittently.
+1520,1410,software,6.46,4,Keyboard keys not working properly.
+1521,1094,software,3.66,5,Printer not responding to print commands.
+1522,1626,software,6.08,3,Keyboard keys not working properly.
+1523,1754,network,10.81,1,Application crashing during use.
+1524,1931,software,4.64,4,Blue screen error on startup.
+1525,1291,software,8.08,2,Laptop overheating and shutting down.
+1526,1793,software,5.97,3,Software installation fails with error code.
+1527,1810,software,5.99,5,Printer not responding to print commands.
+1528,1282,software,7.05,4,Frequent disconnections from corporate network.
+1529,1068,software,7.45,3,Application crashing during use.
+1530,1659,software,5.39,4,Unable to connect to WiFi network.
+1531,1010,software,6.2,5,Laptop overheating and shutting down.
+1532,1253,software,7.09,3,Laptop overheating and shutting down.
+1533,1841,network,5.68,3,VPN connection dropping intermittently.
+1534,1871,network,4.54,5,Keyboard keys not working properly.
+1535,1549,network,7.88,3,Printer not responding to print commands.
+1536,1133,network,4.49,4,Application crashing during use.
+1537,1711,software,4.53,4,Unable to connect to WiFi network.
+1538,1022,software,5.47,4,Printer not responding to print commands.
+1539,1814,network,7.45,4,Blue screen error on startup.
+1540,1345,hardware,9.58,1,Unable to connect to WiFi network.
+1541,1301,network,6,5,Need assistance updating antivirus software.
+1542,1362,software,6.18,5,Need assistance updating antivirus software.
+1543,1395,software,3.4,5,Laptop overheating and shutting down.
+1544,1217,software,1.85,5,Blue screen error on startup.
+1545,1140,network,7.59,2,Need assistance updating antivirus software.
+1546,1615,software,6.37,3,Laptop overheating and shutting down.
+1547,1957,software,5.12,3,Keyboard keys not working properly.
+1548,1209,hardware,6.51,4,Application crashing during use.
+1549,1984,software,5.15,4,Laptop overheating and shutting down.
+1550,1992,hardware,11.31,1,Application crashing during use.
+1551,1622,network,8.18,2,Blue screen error on startup.
+1552,1615,software,4.6,5,VPN connection dropping intermittently.
+1553,1827,software,5.73,3,Printer not responding to print commands.
+1554,1682,software,2.39,5,Laptop overheating and shutting down.
+1555,1459,network,6.21,3,Laptop overheating and shutting down.
+1556,1355,software,3.04,5,Application crashing during use.
+1557,1323,software,7.02,2,Need assistance updating antivirus software.
+1558,1132,software,6.07,4,Need assistance updating antivirus software.
+1559,1887,software,5.28,4,Laptop overheating and shutting down.
+1560,1804,hardware,5.65,3,Need assistance updating antivirus software.
+1561,1839,network,9.49,2,Need assistance updating antivirus software.
+1562,1126,hardware,14.16,2,Laptop overheating and shutting down.
+1563,1105,hardware,11.71,2,Keyboard keys not working properly.
+1564,1603,hardware,9.89,2,Keyboard keys not working properly.
+1565,1798,software,5.95,3,Software installation fails with error code.
+1566,1377,software,5.41,4,Keyboard keys not working properly.
+1567,1904,hardware,12.78,3,Software installation fails with error code.
+1568,1050,network,9.81,3,Blue screen error on startup.
+1569,1028,software,4.67,5,Frequent disconnections from corporate network.
+1570,1461,software,4.01,3,Printer not responding to print commands.
+1571,1295,software,4.4,4,Frequent disconnections from corporate network.
+1572,1296,network,9.07,2,Need assistance updating antivirus software.
+1573,1725,software,4.49,3,Unable to connect to WiFi network.
+1574,1778,hardware,7.75,4,Need assistance updating antivirus software.
+1575,1406,network,8,3,Laptop overheating and shutting down.
+1576,1768,hardware,13.32,1,Laptop overheating and shutting down.
+1577,1813,network,8.27,2,Printer not responding to print commands.
+1578,1612,software,4.59,5,VPN connection dropping intermittently.
+1579,1404,network,8.64,2,VPN connection dropping intermittently.
+1580,1345,network,8.17,2,VPN connection dropping intermittently.
+1581,1621,hardware,4.2,4,Keyboard keys not working properly.
+1582,1419,software,6.05,3,Blue screen error on startup.
+1583,1181,software,5.61,5,Need assistance updating antivirus software.
+1584,1982,network,8.03,3,Laptop overheating and shutting down.
+1585,1824,software,6.59,4,Unable to connect to WiFi network.
+1586,1000,software,6.82,5,Unable to connect to WiFi network.
+1587,1830,software,6.2,4,Unable to connect to WiFi network.
+1588,1949,software,3.72,5,VPN connection dropping intermittently.
+1589,1566,hardware,7.55,3,Printer not responding to print commands.
+1590,1370,software,6.68,4,VPN connection dropping intermittently.
+1591,1935,software,2.18,5,Laptop overheating and shutting down.
+1592,1910,network,7.7,3,Need assistance updating antivirus software.
+1593,1660,software,5.66,5,Need assistance updating antivirus software.
+1594,1430,software,2.37,5,Printer not responding to print commands.
+1595,1968,software,5.35,5,Blue screen error on startup.
+1596,1308,network,9.91,2,Keyboard keys not working properly.
+1597,1136,hardware,5.54,4,Unable to connect to WiFi network.
+1598,1201,network,11.32,3,Need assistance updating antivirus software.
+1599,1435,software,3.49,4,Printer not responding to print commands.
+1600,1312,software,5.86,3,Unable to connect to WiFi network.
+1601,1116,network,7.83,3,VPN connection dropping intermittently.
+1602,1665,software,5.1,4,Application crashing during use.
+1603,1936,software,3.07,4,Frequent disconnections from corporate network.
+1604,1802,hardware,13.78,1,Need assistance updating antivirus software.
+1605,1574,hardware,10.98,1,Blue screen error on startup.
+1606,1243,hardware,14.86,2,Printer not responding to print commands.
+1607,1536,network,5.49,5,Keyboard keys not working properly.
+1608,1601,software,4.73,5,Blue screen error on startup.
+1609,1074,software,5.31,4,VPN connection dropping intermittently.
+1610,1805,hardware,10.18,3,Need assistance updating antivirus software.
+1611,1385,software,6,4,Laptop overheating and shutting down.
+1612,1902,hardware,9.42,1,VPN connection dropping intermittently.
+1613,1209,software,8.18,2,Keyboard keys not working properly.
+1614,1474,software,5.06,4,VPN connection dropping intermittently.
+1615,1417,network,2.23,4,Printer not responding to print commands.
+1616,1346,software,5.13,4,Blue screen error on startup.
+1617,1528,software,6.89,4,Printer not responding to print commands.
+1618,1639,software,3.62,5,Unable to connect to WiFi network.
+1619,1938,software,3.52,,Application crashing during use.
+1620,1954,software,3.74,5,Blue screen error on startup.
+1621,1875,network,5.85,3,Application crashing during use.
+1622,1762,software,4.28,4,Printer not responding to print commands.
+1623,1178,software,6.36,4,Laptop overheating and shutting down.
+1624,1181,software,7.29,2,Need assistance updating antivirus software.
+1625,1663,network,3.15,4,Keyboard keys not working properly.
+1626,1024,network,7.24,3,VPN connection dropping intermittently.
+1627,1966,network,8.61,4,VPN connection dropping intermittently.
+1628,1179,software,5.3,4,Application crashing during use.
+1629,1709,network,11.8,3,Keyboard keys not working properly.
+1630,1500,software,1.98,5,Blue screen error on startup.
+1631,1855,hardware,2.23,4,Need assistance updating antivirus software.
+1632,1160,network,12.12,,Frequent disconnections from corporate network.
+1633,1176,software,6.13,4,Application crashing during use.
+1634,1284,software,4.14,3,Blue screen error on startup.
+1635,1062,hardware,10.51,2,Blue screen error on startup.
+1636,1661,software,5.36,4,Keyboard keys not working properly.
+1637,1665,software,4.11,,Keyboard keys not working properly.
+1638,1155,hardware,10.43,3,Software installation fails with error code.
+1639,1881,software,5.53,4,VPN connection dropping intermittently.
+1640,1468,hardware,16.05,3,Need assistance updating antivirus software.
+1641,1048,network,9.93,1,Unable to connect to WiFi network.
+1642,1966,hardware,15.22,3,Application crashing during use.
+1643,1848,software,2.98,5,Need assistance updating antivirus software.
+1644,1083,software,4.48,3,Software installation fails with error code.
+1645,1360,network,8.48,3,Software installation fails with error code.
+1646,1688,software,2.12,5,Need assistance updating antivirus software.
+1647,1147,network,10.36,2,Keyboard keys not working properly.
+1648,1629,hardware,11.93,,Blue screen error on startup.
+1649,1341,hardware,8.9,2,Frequent disconnections from corporate network.
+1650,1475,network,7.63,3,Need assistance updating antivirus software.
+1651,1062,hardware,13.76,1,Application crashing during use.
+1652,1700,software,3.81,5,Unable to connect to WiFi network.
+1653,1359,software,6.94,4,VPN connection dropping intermittently.
+1654,1560,software,4.62,5,Software installation fails with error code.
+1655,1326,network,9.51,2,Laptop overheating and shutting down.
+1656,1768,network,8.17,3,Laptop overheating and shutting down.
+1657,1735,software,8.35,4,Blue screen error on startup.
+1658,1140,hardware,7.34,3,Keyboard keys not working properly.
+1659,1989,network,6.85,3,VPN connection dropping intermittently.
+1660,1214,hardware,5.48,3,Software installation fails with error code.
+1661,1434,software,3.35,5,Laptop overheating and shutting down.
+1662,1890,software,6.07,3,Laptop overheating and shutting down.
+1663,1951,software,7.4,3,Frequent disconnections from corporate network.
+1664,1722,hardware,12.48,1,Need assistance updating antivirus software.
+1665,1317,software,4.99,3,Printer not responding to print commands.
+1666,1031,software,3.66,5,VPN connection dropping intermittently.
+1667,1669,software,6.35,5,Printer not responding to print commands.
+1668,1284,network,6.1,4,Unable to connect to WiFi network.
+1669,1304,network,5.3,5,Keyboard keys not working properly.
+1670,1428,software,4.54,5,Need assistance updating antivirus software.
+1671,1476,software,1.95,4,Unable to connect to WiFi network.
+1672,1285,software,2.93,5,Application crashing during use.
+1673,1143,software,7.83,3,Software installation fails with error code.
+1674,1423,software,2.65,5,Printer not responding to print commands.
+1675,1018,software,3.22,5,Blue screen error on startup.
+1676,1017,software,5.11,5,Application crashing during use.
+1677,1768,hardware,10.37,1,VPN connection dropping intermittently.
+1678,1589,software,4.65,3,Software installation fails with error code.
+1679,1370,software,1.99,5,Laptop overheating and shutting down.
+1680,1174,network,9.7,1,Printer not responding to print commands.
+1681,1193,software,4.34,3,Need assistance updating antivirus software.
+1682,1501,software,6.83,3,Need assistance updating antivirus software.
+1683,1987,software,4.03,3,Application crashing during use.
+1684,1112,software,6.47,4,Application crashing during use.
+1685,1113,hardware,13.89,3,Keyboard keys not working properly.
+1686,1221,network,7.07,4,Laptop overheating and shutting down.
+1687,1677,software,6.32,4,Frequent disconnections from corporate network.
+1688,1946,software,3.01,5,Printer not responding to print commands.
+1689,1830,network,8.53,3,Unable to connect to WiFi network.
+1690,1643,network,10.44,1,VPN connection dropping intermittently.
+1691,1896,software,5.78,3,Printer not responding to print commands.
+1692,1263,network,12.81,1,Printer not responding to print commands.
+1693,1924,network,9.15,3,Laptop overheating and shutting down.
+1694,1054,network,7.27,4,Printer not responding to print commands.
+1695,1870,software,9.26,2,Keyboard keys not working properly.
+1696,1642,software,7.45,3,Printer not responding to print commands.
+1697,1799,software,2.6,4,Blue screen error on startup.
+1698,1777,hardware,7.65,3,Blue screen error on startup.
+1699,1457,software,3.44,5,Software installation fails with error code.
+1700,1978,software,5.97,4,VPN connection dropping intermittently.
+1701,1877,hardware,11.71,1,Blue screen error on startup.
+1702,1161,software,5.85,5,VPN connection dropping intermittently.
+1703,1379,software,2.56,,Need assistance updating antivirus software.
+1704,1992,software,4.04,5,Keyboard keys not working properly.
+1705,1086,network,7.7,4,Laptop overheating and shutting down.
+1706,1054,software,2.27,5,Laptop overheating and shutting down.
+1707,1475,software,3.69,4,Blue screen error on startup.
+1708,1799,software,7.03,2,Keyboard keys not working properly.
+1709,1177,network,4.89,3,Need assistance updating antivirus software.
+1710,1390,hardware,14.37,1,Unable to connect to WiFi network.
+1711,1348,software,6.64,4,Keyboard keys not working properly.
+1712,1007,software,4.56,4,Software installation fails with error code.
+1713,1832,hardware,8.05,3,Laptop overheating and shutting down.
+1714,1312,software,6.25,3,Software installation fails with error code.
+1715,1758,hardware,7.64,4,Laptop overheating and shutting down.
+1716,1834,software,3.89,4,Need assistance updating antivirus software.
+1717,1983,network,7.95,2,Printer not responding to print commands.
+1718,1982,software,1.8,5,Frequent disconnections from corporate network.
+1719,1442,software,2.83,5,Keyboard keys not working properly.
+1720,1766,software,4.53,4,Keyboard keys not working properly.
+1721,1327,hardware,11.43,1,Printer not responding to print commands.
+1722,1053,software,3.8,5,Unable to connect to WiFi network.
+1723,1760,software,4.7,3,Laptop overheating and shutting down.
+1724,1238,hardware,5.16,3,Unable to connect to WiFi network.
+1725,1228,software,6.4,4,Keyboard keys not working properly.
+1726,1578,software,5.33,3,Blue screen error on startup.
+1727,1050,hardware,10.93,1,Blue screen error on startup.
+1728,1608,network,8.98,3,Application crashing during use.
+1729,1603,software,5.12,5,VPN connection dropping intermittently.
+1730,1263,hardware,8.55,4,Blue screen error on startup.
+1731,1417,software,6.69,4,Blue screen error on startup.
+1732,1802,software,5.24,3,Laptop overheating and shutting down.
+1733,1095,software,4.75,3,Application crashing during use.
+1734,1087,software,4.99,3,Laptop overheating and shutting down.
+1735,1077,hardware,9.91,2,Keyboard keys not working properly.
+1736,1287,network,7.65,3,Software installation fails with error code.
+1737,1119,network,8.89,3,Unable to connect to WiFi network.
+1738,1813,network,6.13,4,Keyboard keys not working properly.
+1739,1490,software,3.71,4,Software installation fails with error code.
+1740,1911,software,5.84,4,Need assistance updating antivirus software.
+1741,1451,hardware,9.56,1,Need assistance updating antivirus software.
+1742,1499,software,6.46,4,Laptop overheating and shutting down.
+1743,1164,software,5.61,4,Frequent disconnections from corporate network.
+1744,1181,network,6.89,4,Frequent disconnections from corporate network.
+1745,1468,software,5.86,4,Software installation fails with error code.
+1746,1909,software,6.8,4,Blue screen error on startup.
+1747,1734,network,8.89,2,Laptop overheating and shutting down.
+1748,1822,network,9.33,,Software installation fails with error code.
+1749,1943,network,7.66,3,Laptop overheating and shutting down.
+1750,1977,network,9.99,1,Software installation fails with error code.
+1751,1006,software,4.13,4,Need assistance updating antivirus software.
+1752,1329,network,8.68,3,Application crashing during use.
+1753,1774,software,8.85,4,Laptop overheating and shutting down.
+1754,1672,hardware,11.62,3,Application crashing during use.
+1755,1150,software,4.37,,Need assistance updating antivirus software.
+1756,1084,hardware,8.73,4,Frequent disconnections from corporate network.
+1757,1146,software,4.89,4,Printer not responding to print commands.
+1758,1623,software,6.28,4,Unable to connect to WiFi network.
+1759,1380,hardware,10.44,1,Keyboard keys not working properly.
+1760,1914,network,6.7,5,Unable to connect to WiFi network.
+1761,1547,hardware,8.05,2,Unable to connect to WiFi network.
+1762,1284,network,8.3,4,Keyboard keys not working properly.
+1763,1699,software,5.06,3,Need assistance updating antivirus software.
+1764,1081,network,8.91,3,Need assistance updating antivirus software.
+1765,1513,software,6.38,4,Frequent disconnections from corporate network.
+1766,1896,software,9.09,1,Printer not responding to print commands.
+1767,1814,software,2.81,4,VPN connection dropping intermittently.
+1768,1708,software,6.03,4,Unable to connect to WiFi network.
+1769,1915,software,5.15,3,Blue screen error on startup.
+1770,1522,network,4.31,4,Unable to connect to WiFi network.
+1771,1745,software,6.87,,VPN connection dropping intermittently.
+1772,1385,hardware,11.26,3,Laptop overheating and shutting down.
+1773,1706,software,6.2,4,Frequent disconnections from corporate network.
+1774,1470,hardware,4.9,3,Application crashing during use.
+1775,1118,hardware,9.34,1,Application crashing during use.
+1776,1395,software,3.38,4,VPN connection dropping intermittently.
+1777,1531,software,8.24,4,Unable to connect to WiFi network.
+1778,1260,network,10.29,3,Application crashing during use.
+1779,1804,network,6.64,3,VPN connection dropping intermittently.
+1780,1933,network,4.93,3,Keyboard keys not working properly.
+1781,1255,software,5.29,5,Need assistance updating antivirus software.
+1782,1733,software,6.64,5,Software installation fails with error code.
+1783,1904,software,2.4,5,Need assistance updating antivirus software.
+1784,1225,software,3.6,5,Unable to connect to WiFi network.
+1785,1052,software,3.34,5,VPN connection dropping intermittently.
+1786,1939,software,6.3,3,Laptop overheating and shutting down.
+1787,1866,software,4.45,4,Application crashing during use.
+1788,1499,network,7.34,3,Application crashing during use.
+1789,1505,network,8.35,3,Application crashing during use.
+1790,1853,software,3.68,5,VPN connection dropping intermittently.
+1791,1363,software,2.83,4,Need assistance updating antivirus software.
+1792,1279,software,7.05,2,Laptop overheating and shutting down.
+1793,1592,software,7.19,3,VPN connection dropping intermittently.
+1794,1713,software,5.27,3,Unable to connect to WiFi network.
+1795,1157,network,8.5,3,Frequent disconnections from corporate network.
+1796,1631,network,10.52,3,Unable to connect to WiFi network.
+1797,1058,software,5.23,5,Software installation fails with error code.
+1798,1726,software,4.37,4,Frequent disconnections from corporate network.
+1799,1127,software,5.06,4,Unable to connect to WiFi network.
+1800,1735,hardware,14.18,1,Laptop overheating and shutting down.
+1801,1720,software,5.08,4,Printer not responding to print commands.
+1802,1881,software,4,4,Printer not responding to print commands.
+1803,1114,software,5.22,4,Printer not responding to print commands.
+1804,1208,software,5.98,5,Software installation fails with error code.
+1805,1525,software,5.8,4,Software installation fails with error code.
+1806,1520,software,5.83,3,Printer not responding to print commands.
+1807,1551,software,3.76,4,Keyboard keys not working properly.
+1808,1961,network,9.54,1,Application crashing during use.
+1809,1236,software,5.04,4,Frequent disconnections from corporate network.
+1810,1280,hardware,7.86,4,Frequent disconnections from corporate network.
+1811,1358,hardware,12.29,2,Application crashing during use.
+1812,1200,software,4.32,4,Need assistance updating antivirus software.
+1813,1757,software,2.64,5,Keyboard keys not working properly.
+1814,1277,software,3.5,5,Printer not responding to print commands.
+1815,1234,software,4.73,4,Application crashing during use.
+1816,1493,network,9.16,1,VPN connection dropping intermittently.
+1817,1003,software,3.7,5,Frequent disconnections from corporate network.
+1818,1665,software,4.64,3,VPN connection dropping intermittently.
+1819,1441,hardware,6.35,5,Application crashing during use.
+1820,1028,software,6.47,3,Application crashing during use.
+1821,1108,software,7.58,2,Unable to connect to WiFi network.
+1822,1609,software,7.41,2,Unable to connect to WiFi network.
+1823,1726,software,6.45,3,Laptop overheating and shutting down.
+1824,1804,software,6.29,4,Laptop overheating and shutting down.
+1825,1074,network,3.86,4,Software installation fails with error code.
+1826,1837,software,5.27,3,Software installation fails with error code.
+1827,1145,hardware,8.51,3,Printer not responding to print commands.
+1828,1127,software,6.32,4,Unable to connect to WiFi network.
+1829,1852,network,2.92,4,Printer not responding to print commands.
+1830,1041,software,5.29,4,Application crashing during use.
+1831,1355,hardware,9.36,2,Printer not responding to print commands.
+1832,1040,network,10.24,3,Application crashing during use.
+1833,1933,software,7.32,3,Frequent disconnections from corporate network.
+1834,1033,hardware,7.21,2,Unable to connect to WiFi network.
+1835,1016,software,3.67,5,Laptop overheating and shutting down.
+1836,1676,hardware,10.69,2,Printer not responding to print commands.
+1837,1152,software,7.6,2,Unable to connect to WiFi network.
+1838,1997,software,5.09,5,Frequent disconnections from corporate network.
+1839,1377,software,3.08,5,VPN connection dropping intermittently.
+1840,1587,network,6.79,5,Laptop overheating and shutting down.
+1841,1598,network,8.41,3,Keyboard keys not working properly.
+1842,1628,software,5.36,4,Blue screen error on startup.
+1843,1873,network,6.59,4,Unable to connect to WiFi network.
+1844,1341,software,4.06,4,Need assistance updating antivirus software.
+1845,1980,hardware,7.06,3,Unable to connect to WiFi network.
+1846,1026,hardware,13.42,3,Application crashing during use.
+1847,1824,software,3.75,5,Keyboard keys not working properly.
+1848,1286,hardware,8.61,4,Need assistance updating antivirus software.
+1849,1645,software,4.26,5,Printer not responding to print commands.
+1850,1730,software,2.59,,Frequent disconnections from corporate network.
+1851,1167,network,6.27,4,Need assistance updating antivirus software.
+1852,1609,software,6.84,4,Printer not responding to print commands.
+1853,1267,software,3.19,4,Printer not responding to print commands.
+1854,1748,software,3.55,5,Printer not responding to print commands.
+1855,1820,software,3,4,Application crashing during use.
+1856,1454,network,7.82,2,Need assistance updating antivirus software.
+1857,1905,software,7.83,2,Software installation fails with error code.
+1858,1684,hardware,9.6,3,Frequent disconnections from corporate network.
+1859,1400,software,5.1,5,VPN connection dropping intermittently.
+1860,1921,hardware,7.61,3,Unable to connect to WiFi network.
+1861,1980,hardware,9.82,1,Application crashing during use.
+1862,1475,hardware,13.69,2,Laptop overheating and shutting down.
+1863,1701,hardware,10.43,2,VPN connection dropping intermittently.
+1864,1633,hardware,16.4,1,Frequent disconnections from corporate network.
+1865,1557,software,6.89,3,Application crashing during use.
+1866,1575,network,7.83,2,VPN connection dropping intermittently.
+1867,1129,software,4.84,4,Unable to connect to WiFi network.
+1868,1821,software,7.45,3,Printer not responding to print commands.
+1869,1362,software,5.21,4,Keyboard keys not working properly.
+1870,1704,software,7.11,4,Printer not responding to print commands.
+1871,1818,hardware,16.01,1,Frequent disconnections from corporate network.
+1872,1692,hardware,9.39,1,Unable to connect to WiFi network.
+1873,1291,hardware,11.06,1,VPN connection dropping intermittently.
+1874,1370,software,6.47,3,Blue screen error on startup.
+1875,1793,network,9.54,1,Keyboard keys not working properly.
+1876,1028,network,9.52,1,Printer not responding to print commands.
+1877,1148,software,3,5,Software installation fails with error code.
+1878,1778,network,6.3,3,VPN connection dropping intermittently.
+1879,1295,network,7.01,3,Printer not responding to print commands.
+1880,1010,hardware,13.64,2,VPN connection dropping intermittently.
+1881,1511,software,3.15,4,Keyboard keys not working properly.
+1882,1675,software,7.28,3,Frequent disconnections from corporate network.
+1883,1112,network,9.56,1,Laptop overheating and shutting down.
+1884,1186,software,6.73,5,Printer not responding to print commands.
+1885,1806,network,6.14,5,VPN connection dropping intermittently.
+1886,1743,hardware,10.22,1,Laptop overheating and shutting down.
+1887,1226,software,5.45,5,Laptop overheating and shutting down.
+1888,1309,software,5.38,4,Software installation fails with error code.
+1889,1097,software,5.44,5,Laptop overheating and shutting down.
+1890,1054,network,7.45,3,Keyboard keys not working properly.
+1891,1622,software,5.2,3,Unable to connect to WiFi network.
+1892,1663,software,6.55,5,Laptop overheating and shutting down.
+1893,1757,software,3.25,4,Blue screen error on startup.
+1894,1405,network,11.09,1,VPN connection dropping intermittently.
+1895,1068,software,6.47,3,Laptop overheating and shutting down.
+1896,1311,software,3.55,5,Need assistance updating antivirus software.
+1897,1288,hardware,11.15,2,Unable to connect to WiFi network.
+1898,1761,software,6.35,4,Application crashing during use.
+1899,1547,software,3.15,5,Unable to connect to WiFi network.
+1900,1750,software,5.06,3,Frequent disconnections from corporate network.
+1901,1147,software,4.88,5,Application crashing during use.
+1902,1466,software,4.03,5,Software installation fails with error code.
+1903,1738,software,5.14,3,Unable to connect to WiFi network.
+1904,1243,software,4.1,3,Frequent disconnections from corporate network.
+1905,1490,hardware,14.12,3,Unable to connect to WiFi network.
+1906,1848,software,4.06,4,Laptop overheating and shutting down.
+1907,1957,hardware,12.38,2,Printer not responding to print commands.
+1908,1506,software,2.52,5,Printer not responding to print commands.
+1909,1364,hardware,9.51,1,Frequent disconnections from corporate network.
+1910,1481,hardware,10.04,1,Unable to connect to WiFi network.
+1911,1200,software,4.71,4,Frequent disconnections from corporate network.
+1912,1153,hardware,8.81,2,Software installation fails with error code.
+1913,1449,network,6.66,4,Printer not responding to print commands.
+1914,1500,hardware,12.26,3,Need assistance updating antivirus software.
+1915,1072,software,6.5,4,Application crashing during use.
+1916,1712,network,7.84,4,Keyboard keys not working properly.
+1917,1295,software,3.36,5,Laptop overheating and shutting down.
+1918,1016,hardware,15.38,2,Need assistance updating antivirus software.
+1919,1640,network,6.24,4,Need assistance updating antivirus software.
+1920,1216,software,2.81,5,VPN connection dropping intermittently.
+1921,1060,software,1.98,5,Need assistance updating antivirus software.
+1922,1938,hardware,10.3,1,Application crashing during use.
+1923,1615,software,4.67,5,Application crashing during use.
+1924,1041,network,10.06,2,Laptop overheating and shutting down.
+1925,1024,network,9.22,1,Frequent disconnections from corporate network.
+1926,1038,software,5.44,4,Blue screen error on startup.
+1927,1802,software,4.59,5,Blue screen error on startup.
+1928,1130,hardware,13.33,2,Unable to connect to WiFi network.
+1929,1497,network,11.73,1,Unable to connect to WiFi network.
+1930,1228,software,6.51,5,Keyboard keys not working properly.
+1931,1107,network,7.07,3,Application crashing during use.
+1932,1171,network,9.56,2,Unable to connect to WiFi network.
+1933,1434,software,4.4,3,VPN connection dropping intermittently.
+1934,1477,software,3.34,4,Unable to connect to WiFi network.
+1935,1101,software,3.65,5,Software installation fails with error code.
+1936,1865,hardware,8.93,4,Software installation fails with error code.
+1937,1523,software,5.16,3,VPN connection dropping intermittently.
+1938,1274,hardware,16.18,1,Need assistance updating antivirus software.
+1939,1612,hardware,7.35,2,Software installation fails with error code.
+1940,1043,software,6.99,4,Blue screen error on startup.
+1941,1954,hardware,9.05,1,Blue screen error on startup.
+1942,1816,software,1.98,4,Software installation fails with error code.
+1943,1956,network,6.99,3,Unable to connect to WiFi network.
+1944,1016,software,6.77,4,Keyboard keys not working properly.
+1945,1329,network,8.69,3,Keyboard keys not working properly.
+1946,1568,software,5.61,3,Blue screen error on startup.
+1947,1822,software,6.99,5,Software installation fails with error code.
+1948,1496,network,5.93,3,Need assistance updating antivirus software.
+1949,1814,network,5.9,3,Laptop overheating and shutting down.
+1950,1011,hardware,3.21,5,Unable to connect to WiFi network.
+1951,1317,software,6.32,4,Unable to connect to WiFi network.
+1952,1591,network,9.12,2,Keyboard keys not working properly.
+1953,1215,software,6.09,3,Software installation fails with error code.
+1954,1338,software,3.23,5,Frequent disconnections from corporate network.
+1955,1775,software,2.59,5,Printer not responding to print commands.
+1956,1990,hardware,6.04,5,Software installation fails with error code.
+1957,1660,software,3.62,4,VPN connection dropping intermittently.
+1958,1080,software,7.33,3,Software installation fails with error code.
+1959,1726,hardware,13,2,Unable to connect to WiFi network.
+1960,1484,hardware,8.63,4,Laptop overheating and shutting down.
+1961,1373,network,8.6,2,VPN connection dropping intermittently.
+1962,1975,network,6.64,5,Keyboard keys not working properly.
+1963,1709,network,8.73,2,Application crashing during use.
+1964,1199,software,3.29,5,Application crashing during use.
+1965,1536,software,6.13,3,Frequent disconnections from corporate network.
+1966,1465,software,3.73,5,Keyboard keys not working properly.
+1967,1088,hardware,12.42,1,Need assistance updating antivirus software.
+1968,1267,software,4.36,3,Blue screen error on startup.
+1969,1654,network,6.42,3,Frequent disconnections from corporate network.
+1970,1570,software,7.42,,Application crashing during use.
+1971,1921,software,5.27,5,Blue screen error on startup.
+1972,1488,software,4.52,5,Need assistance updating antivirus software.
+1973,1876,software,6.14,4,Keyboard keys not working properly.
+1974,1537,hardware,5.98,3,Blue screen error on startup.
+1975,1046,software,6.66,4,Keyboard keys not working properly.
+1976,1287,software,4.79,4,Need assistance updating antivirus software.
+1977,1777,software,5.9,5,Printer not responding to print commands.
+1978,1015,software,2.68,5,VPN connection dropping intermittently.
+1979,1710,network,7.24,4,Blue screen error on startup.
+1980,1400,software,5.01,5,Blue screen error on startup.
+1981,1918,network,10.06,3,Keyboard keys not working properly.
+1982,1793,hardware,12.04,1,Keyboard keys not working properly.
+1983,1980,network,7.22,2,Blue screen error on startup.
+1984,1085,software,5.48,4,Keyboard keys not working properly.
+1985,1249,software,6.88,4,Laptop overheating and shutting down.
+1986,1390,hardware,9.4,1,Laptop overheating and shutting down.
+1987,1781,network,7.38,2,Printer not responding to print commands.
+1988,1334,network,4.22,4,Printer not responding to print commands.
+1989,1628,network,7.44,3,Printer not responding to print commands.
+1990,1518,network,4.52,3,Application crashing during use.
+1991,1136,network,7.77,3,Application crashing during use.
+1992,1882,software,6.48,4,Software installation fails with error code.
+1993,1687,network,3.76,5,Frequent disconnections from corporate network.
+1994,1839,network,10.47,1,VPN connection dropping intermittently.
+1995,1497,hardware,9.01,2,Laptop overheating and shutting down.
+1996,1826,software,4.96,4,Need assistance updating antivirus software.
+1997,1726,software,4.25,3,VPN connection dropping intermittently.
+1998,1476,software,2.43,5,VPN connection dropping intermittently.
+1999,1593,hardware,7.65,2,Need assistance updating antivirus software.
+2000,1222,network,12.19,1,Unable to connect to WiFi network.
+2001,1989,hardware,6.71,4,Blue screen error on startup.
+2002,1371,software,2.62,5,Frequent disconnections from corporate network.
+2003,1934,network,8.28,2,Software installation fails with error code.
+2004,1994,hardware,9.74,3,Printer not responding to print commands.
+2005,1401,network,7.35,2,Need assistance updating antivirus software.
+2006,1442,network,8.03,4,Application crashing during use.
+2007,1489,hardware,11.93,2,Printer not responding to print commands.
+2008,1614,software,4.12,3,Keyboard keys not working properly.
+2009,1272,software,5.29,3,Need assistance updating antivirus software.
+2010,1525,network,10.05,2,Printer not responding to print commands.
+2011,1158,software,3.51,5,Blue screen error on startup.
+2012,1151,software,1.52,4,Blue screen error on startup.
+2013,1994,software,6.01,3,Blue screen error on startup.
+2014,1619,software,8.75,3,Printer not responding to print commands.
+2015,1187,network,7.99,2,Blue screen error on startup.
+2016,1812,network,8.4,4,Laptop overheating and shutting down.
+2017,1097,hardware,9.11,2,Application crashing during use.
+2018,1130,software,7.38,3,Software installation fails with error code.
+2019,1804,hardware,9.77,1,Need assistance updating antivirus software.
+2020,1170,software,4.72,3,VPN connection dropping intermittently.
+2021,1935,software,6.37,5,Printer not responding to print commands.
+2022,1985,network,7.03,2,Printer not responding to print commands.
+2023,1182,software,3.07,5,Application crashing during use.
+2024,1982,network,9.76,2,Unable to connect to WiFi network.
+2025,1363,software,4.11,3,Frequent disconnections from corporate network.
+2026,1038,software,3.54,5,Keyboard keys not working properly.
+2027,1526,hardware,16.3,3,Need assistance updating antivirus software.
+2028,1887,software,4.73,4,Unable to connect to WiFi network.
+2029,1496,network,8.99,4,Keyboard keys not working properly.
+2030,1515,network,8.06,4,Frequent disconnections from corporate network.
+2031,1348,network,6.23,3,VPN connection dropping intermittently.
+2032,1981,software,6.03,3,Printer not responding to print commands.
+2033,1920,software,5.47,4,Blue screen error on startup.
+2034,1396,hardware,8.02,3,Application crashing during use.
+2035,1721,network,8.87,2,Need assistance updating antivirus software.
+2036,1160,software,4.23,5,Application crashing during use.
+2037,1015,software,3.34,5,Software installation fails with error code.
+2038,1492,software,3.19,5,VPN connection dropping intermittently.
+2039,1425,software,5.41,4,Software installation fails with error code.
+2040,1107,software,4.43,3,Frequent disconnections from corporate network.
+2041,1893,software,7.25,4,Frequent disconnections from corporate network.
+2042,1449,network,7.91,3,Laptop overheating and shutting down.
+2043,1310,software,3.82,4,Frequent disconnections from corporate network.
+2044,1738,network,8.32,2,Unable to connect to WiFi network.
+2045,1169,software,3.06,5,Unable to connect to WiFi network.
+2046,1545,software,4.87,4,Blue screen error on startup.
+2047,1413,software,5.48,5,Printer not responding to print commands.
+2048,1250,hardware,10.59,1,Application crashing during use.
+2049,1758,hardware,13.91,1,Printer not responding to print commands.
+2050,1780,hardware,17.79,1,Printer not responding to print commands.
+2051,1140,software,6.01,4,Unable to connect to WiFi network.
+2052,1273,software,6.77,3,Application crashing during use.
+2053,1415,software,8.82,2,Blue screen error on startup.
+2054,1607,hardware,6.98,4,VPN connection dropping intermittently.
+2055,1738,software,5.2,4,Laptop overheating and shutting down.
+2056,1890,hardware,8.57,2,Unable to connect to WiFi network.
+2057,1038,hardware,12.53,1,Software installation fails with error code.
+2058,1813,software,5.41,4,Laptop overheating and shutting down.
+2059,1028,network,6.36,3,VPN connection dropping intermittently.
+2060,1957,network,8.02,2,Frequent disconnections from corporate network.
+2061,1476,hardware,13.14,1,Printer not responding to print commands.
+2062,1317,network,5.39,4,Need assistance updating antivirus software.
+2063,1244,hardware,7.61,4,Blue screen error on startup.
+2064,1747,software,3.58,5,Printer not responding to print commands.
+2065,1696,software,5.49,3,Frequent disconnections from corporate network.
+2066,1271,hardware,13.72,3,VPN connection dropping intermittently.
+2067,1439,software,1.99,5,Software installation fails with error code.
+2068,1747,software,5.14,4,Blue screen error on startup.
+2069,1238,software,3.61,5,Blue screen error on startup.
+2070,1376,software,6.51,4,VPN connection dropping intermittently.
+2071,1265,software,4.64,4,Laptop overheating and shutting down.
+2072,1925,network,8.26,2,Keyboard keys not working properly.
+2073,1920,hardware,10,1,Printer not responding to print commands.
+2074,1358,hardware,13.37,1,Laptop overheating and shutting down.
+2075,1339,software,8.07,4,Unable to connect to WiFi network.
+2076,1388,software,3.3,5,VPN connection dropping intermittently.
+2077,1576,software,3.57,5,Unable to connect to WiFi network.
+2078,1989,software,5.48,3,Software installation fails with error code.
+2079,1688,hardware,7.55,2,Laptop overheating and shutting down.
+2080,1002,network,9.87,1,Need assistance updating antivirus software.
+2081,1428,network,10.19,1,Keyboard keys not working properly.
+2082,1141,software,4.18,4,VPN connection dropping intermittently.
+2083,1375,software,3.85,5,VPN connection dropping intermittently.
+2084,1669,software,4.59,3,Keyboard keys not working properly.
+2085,1323,software,5.16,3,Blue screen error on startup.
+2086,1145,software,5.47,4,Frequent disconnections from corporate network.
+2087,1957,software,1.62,4,Software installation fails with error code.
+2088,1292,network,6.07,5,Laptop overheating and shutting down.
+2089,1664,software,4.39,3,VPN connection dropping intermittently.
+2090,1431,network,6.41,3,VPN connection dropping intermittently.
+2091,1704,network,2.27,4,Keyboard keys not working properly.
+2092,1948,software,2.17,4,Need assistance updating antivirus software.
+2093,1974,network,5.39,4,Keyboard keys not working properly.
+2094,1584,network,7.77,2,Keyboard keys not working properly.
+2095,1398,network,7.13,3,Printer not responding to print commands.
+2096,1816,hardware,8.11,3,Laptop overheating and shutting down.
+2097,1888,hardware,12.39,1,Blue screen error on startup.
+2098,1343,software,6.19,3,Keyboard keys not working properly.
+2099,1963,hardware,10.45,2,Need assistance updating antivirus software.
+2100,1139,software,5.18,4,Blue screen error on startup.
+2101,1186,software,3.72,5,Application crashing during use.
+2102,1804,network,6.53,3,Laptop overheating and shutting down.
+2103,1060,software,2.44,4,VPN connection dropping intermittently.
+2104,1996,software,4.62,3,Application crashing during use.
+2105,1938,software,6.18,4,Blue screen error on startup.
+2106,1379,software,7.03,3,Blue screen error on startup.
+2107,1709,software,4.63,5,Laptop overheating and shutting down.
+2108,1806,software,5.74,4,Frequent disconnections from corporate network.
+2109,1439,hardware,1.43,4,Printer not responding to print commands.
+2110,1318,software,4.35,4,VPN connection dropping intermittently.
+2111,1301,software,4.32,5,Application crashing during use.
+2112,1343,software,7.24,2,Keyboard keys not working properly.
+2113,1010,software,5.59,4,Software installation fails with error code.
+2114,1061,software,5.74,5,Frequent disconnections from corporate network.
+2115,1844,network,8.88,3,VPN connection dropping intermittently.
+2116,1225,software,5.07,4,Software installation fails with error code.
+2117,1152,network,11.06,1,Printer not responding to print commands.
+2118,1710,software,1.54,5,Software installation fails with error code.
+2119,1563,software,5.22,3,Keyboard keys not working properly.
+2120,1771,software,6.69,4,Software installation fails with error code.
+2121,1570,network,4.22,3,Frequent disconnections from corporate network.
+2122,1583,software,6.26,5,Unable to connect to WiFi network.
+2123,1659,network,6.48,,Frequent disconnections from corporate network.
+2124,1860,hardware,10.33,2,Keyboard keys not working properly.
+2125,1574,hardware,7.66,2,Application crashing during use.
+2126,1309,hardware,12.88,1,Unable to connect to WiFi network.
+2127,1884,software,4.57,4,Printer not responding to print commands.
+2128,1242,software,6.27,4,Frequent disconnections from corporate network.
+2129,1492,network,8.87,3,Unable to connect to WiFi network.
+2130,1365,software,3.81,5,Blue screen error on startup.
+2131,1329,software,5.75,4,Frequent disconnections from corporate network.
+2132,1106,software,4,4,Unable to connect to WiFi network.
+2133,1225,hardware,10.19,1,Laptop overheating and shutting down.
+2134,1824,network,7.39,,Application crashing during use.
+2135,1217,hardware,12.7,2,VPN connection dropping intermittently.
+2136,1936,software,5.81,3,Software installation fails with error code.
+2137,1752,software,4.95,3,Unable to connect to WiFi network.
+2138,1505,network,6.63,4,VPN connection dropping intermittently.
+2139,1258,network,5.46,3,Frequent disconnections from corporate network.
+2140,1887,software,5.2,4,VPN connection dropping intermittently.
+2141,1773,software,4.05,4,Blue screen error on startup.
+2142,1516,network,4.24,5,Need assistance updating antivirus software.
+2143,1772,software,3,5,Need assistance updating antivirus software.
+2144,1053,hardware,14.88,1,Application crashing during use.
+2145,1046,hardware,8.02,2,Unable to connect to WiFi network.
+2146,1726,hardware,13.25,3,Blue screen error on startup.
+2147,1688,software,4.47,3,Software installation fails with error code.
+2148,1520,software,6.86,4,Printer not responding to print commands.
+2149,1098,software,6.75,,Keyboard keys not working properly.
+2150,1019,software,3.76,5,Application crashing during use.
+2151,1889,network,4.02,3,Keyboard keys not working properly.
+2152,1752,network,4.19,4,Need assistance updating antivirus software.
+2153,1572,software,3.79,5,Laptop overheating and shutting down.
+2154,1890,network,11.78,1,Printer not responding to print commands.
+2155,1489,software,4.38,5,Printer not responding to print commands.
+2156,1418,network,8.29,3,Keyboard keys not working properly.
+2157,1689,network,10.61,3,Laptop overheating and shutting down.
+2158,1849,software,5.17,3,Frequent disconnections from corporate network.
+2159,1061,software,5.11,3,VPN connection dropping intermittently.
+2160,1144,software,5.93,5,Application crashing during use.
+2161,1215,network,8.58,4,Blue screen error on startup.
+2162,1002,network,7.8,3,Printer not responding to print commands.
+2163,1159,software,3.92,5,Keyboard keys not working properly.
+2164,1738,software,5.12,5,VPN connection dropping intermittently.
+2165,1997,software,6.64,3,Need assistance updating antivirus software.
+2166,1780,software,7.67,3,Blue screen error on startup.
+2167,1119,hardware,10.88,3,Keyboard keys not working properly.
+2168,1892,software,6.13,3,Application crashing during use.
+2169,1088,software,5.4,3,Software installation fails with error code.
+2170,1328,software,4.87,4,Printer not responding to print commands.
+2171,1579,software,5.77,3,Need assistance updating antivirus software.
+2172,1909,software,6.78,3,Application crashing during use.
+2173,1356,software,3.67,,Unable to connect to WiFi network.
+2174,1609,software,2.82,5,Need assistance updating antivirus software.
+2175,1266,network,6.93,5,Blue screen error on startup.
+2176,1616,network,8.42,4,Unable to connect to WiFi network.
+2177,1951,software,6.3,3,Need assistance updating antivirus software.
+2178,1322,hardware,7.03,2,Keyboard keys not working properly.
+2179,1634,network,3.02,5,Software installation fails with error code.
+2180,1987,hardware,8.47,2,VPN connection dropping intermittently.
+2181,1540,software,4.71,4,Software installation fails with error code.
+2182,1648,hardware,6.51,4,Software installation fails with error code.
+2183,1194,hardware,7.73,3,Keyboard keys not working properly.
+2184,1920,software,6.3,3,Laptop overheating and shutting down.
+2185,1737,network,8.16,2,Need assistance updating antivirus software.
+2186,1331,network,8.69,3,VPN connection dropping intermittently.
+2187,1169,network,7.29,3,Frequent disconnections from corporate network.
+2188,1520,software,3.87,4,Keyboard keys not working properly.
+2189,1462,network,7.27,3,Laptop overheating and shutting down.
+2190,1039,software,5.75,3,Keyboard keys not working properly.
+2191,1536,software,2.76,5,Laptop overheating and shutting down.
+2192,1260,hardware,14.95,2,Software installation fails with error code.
+2193,1394,network,9.15,1,Printer not responding to print commands.
+2194,1954,network,6.93,4,Printer not responding to print commands.
+2195,1225,network,9.63,1,Unable to connect to WiFi network.
+2196,1983,hardware,13.67,1,Frequent disconnections from corporate network.
+2197,1123,software,4.5,3,VPN connection dropping intermittently.
+2198,1974,network,7.57,4,Laptop overheating and shutting down.
+2199,1037,network,10.99,2,Need assistance updating antivirus software.
+2200,1327,network,12.24,3,Software installation fails with error code.
+2201,1250,network,8.06,3,Blue screen error on startup.
+2202,1900,hardware,6.53,4,Need assistance updating antivirus software.
+2203,1175,software,4.29,3,Need assistance updating antivirus software.
+2204,1601,software,6.55,3,Laptop overheating and shutting down.
+2205,1913,hardware,6.91,3,VPN connection dropping intermittently.
+2206,1453,network,7.58,2,Software installation fails with error code.
+2207,1036,software,5.44,4,Software installation fails with error code.
+2208,1315,hardware,7.23,2,VPN connection dropping intermittently.
+2209,1687,software,6.64,3,Printer not responding to print commands.
+2210,1972,software,6.04,3,Application crashing during use.
+2211,1795,network,12.02,1,Unable to connect to WiFi network.
+2212,1964,network,9.56,2,Keyboard keys not working properly.
+2213,1972,network,6.08,5,Unable to connect to WiFi network.
+2214,1592,software,5.8,3,Printer not responding to print commands.
+2215,1113,software,6.48,3,Laptop overheating and shutting down.
+2216,1039,hardware,13.12,1,Laptop overheating and shutting down.
+2217,1300,software,3.83,5,Frequent disconnections from corporate network.
+2218,1223,hardware,7.31,2,Unable to connect to WiFi network.
+2219,1317,hardware,6.58,4,Unable to connect to WiFi network.
+2220,1348,network,11.21,1,Keyboard keys not working properly.
+2221,1114,software,5.93,3,Laptop overheating and shutting down.
+2222,1697,network,6.36,3,Need assistance updating antivirus software.
+2223,1322,software,5.19,3,Unable to connect to WiFi network.
+2224,1567,hardware,9.63,3,Keyboard keys not working properly.
+2225,1039,network,6.05,4,VPN connection dropping intermittently.
+2226,1865,software,5.05,4,Blue screen error on startup.
+2227,1039,software,5.29,4,VPN connection dropping intermittently.
+2228,1858,software,7.9,3,Keyboard keys not working properly.
+2229,1972,software,4.02,4,Need assistance updating antivirus software.
+2230,1748,software,2.44,4,Frequent disconnections from corporate network.
+2231,1288,network,5.9,3,Laptop overheating and shutting down.
+2232,1261,network,6.21,3,Frequent disconnections from corporate network.
+2233,1215,network,7.15,3,Frequent disconnections from corporate network.
+2234,1146,software,3.43,4,Keyboard keys not working properly.
+2235,1335,network,9.64,2,Laptop overheating and shutting down.
+2236,1167,hardware,6.65,3,Software installation fails with error code.
+2237,1091,software,5.03,5,Blue screen error on startup.
+2238,1352,software,8,2,Unable to connect to WiFi network.
+2239,1570,software,5.83,3,Frequent disconnections from corporate network.
+2240,1570,software,5.68,5,VPN connection dropping intermittently.
+2241,1815,hardware,15.57,1,Software installation fails with error code.
+2242,1680,network,10.49,3,Software installation fails with error code.
+2243,1780,network,9.13,1,Need assistance updating antivirus software.
+2244,1362,software,4.53,3,Frequent disconnections from corporate network.
+2245,1556,network,7.95,3,Frequent disconnections from corporate network.
+2246,1344,network,7.86,4,Application crashing during use.
+2247,1692,software,4.4,3,Keyboard keys not working properly.
+2248,1169,network,8.42,4,Need assistance updating antivirus software.
+2249,1355,software,5.53,4,Software installation fails with error code.
+2250,1190,network,5.51,5,Software installation fails with error code.
+2251,1666,hardware,14.9,1,Application crashing during use.
+2252,1421,software,5.61,3,Unable to connect to WiFi network.
+2253,1699,software,4.61,5,Printer not responding to print commands.
+2254,1006,software,5.33,5,VPN connection dropping intermittently.
+2255,1132,hardware,12.79,1,Printer not responding to print commands.
+2256,1746,network,5.07,3,Frequent disconnections from corporate network.
+2257,1556,hardware,9.68,1,Laptop overheating and shutting down.
+2258,1825,software,3.22,5,Need assistance updating antivirus software.
+2259,1760,software,8.99,2,Frequent disconnections from corporate network.
+2260,1030,software,5.21,3,Unable to connect to WiFi network.
+2261,1534,network,5.64,3,Printer not responding to print commands.
+2262,1425,software,10.4,2,Frequent disconnections from corporate network.
+2263,1393,software,4.2,3,VPN connection dropping intermittently.
+2264,1671,network,7.58,3,Software installation fails with error code.
+2265,1362,software,4.79,4,Keyboard keys not working properly.
+2266,1436,network,6.3,4,Blue screen error on startup.
+2267,1669,network,8.49,3,Frequent disconnections from corporate network.
+2268,1550,network,3.58,5,Unable to connect to WiFi network.
+2269,1926,network,10.17,2,Need assistance updating antivirus software.
+2270,1081,software,3.31,5,Laptop overheating and shutting down.
+2271,1355,network,7.17,3,VPN connection dropping intermittently.
+2272,1257,hardware,12.25,3,Application crashing during use.
+2273,1717,software,4.69,4,Unable to connect to WiFi network.
+2274,1588,network,7.67,3,Printer not responding to print commands.
+2275,1988,software,3.48,4,Keyboard keys not working properly.
+2276,1523,hardware,16.29,1,Printer not responding to print commands.
+2277,1294,software,5.8,4,Software installation fails with error code.
+2278,1961,network,5.83,3,Keyboard keys not working properly.
+2279,1223,hardware,10.53,2,Printer not responding to print commands.
+2280,1524,software,3.27,4,Need assistance updating antivirus software.
+2281,1045,network,11.44,2,Printer not responding to print commands.
+2282,1666,network,8.4,3,VPN connection dropping intermittently.
+2283,1112,software,3.54,5,VPN connection dropping intermittently.
+2284,1232,network,9.4,3,Blue screen error on startup.
+2285,1016,hardware,9.17,1,Printer not responding to print commands.
+2286,1359,software,3.07,5,Need assistance updating antivirus software.
+2287,1222,hardware,11.14,1,Need assistance updating antivirus software.
+2288,1865,software,5.53,5,Frequent disconnections from corporate network.
+2289,1699,network,10.28,1,Laptop overheating and shutting down.
+2290,1447,network,8.13,3,Keyboard keys not working properly.
+2291,1855,software,5.16,3,Unable to connect to WiFi network.
+2292,1364,software,5.24,4,Application crashing during use.
+2293,1674,software,7.39,2,Keyboard keys not working properly.
+2294,1325,network,7.38,3,Keyboard keys not working properly.
+2295,1466,network,8.94,4,Software installation fails with error code.
+2296,1413,network,9.23,2,Keyboard keys not working properly.
+2297,1454,software,5.52,4,Software installation fails with error code.
+2298,1585,network,7.3,3,Frequent disconnections from corporate network.
+2299,1232,software,5.18,4,Laptop overheating and shutting down.
+2300,1223,software,4.86,4,Need assistance updating antivirus software.
+2301,1993,hardware,15.88,2,Blue screen error on startup.
+2302,1830,software,4.31,3,Need assistance updating antivirus software.
+2303,1411,network,6.17,3,Printer not responding to print commands.
+2304,1571,software,4.99,4,Application crashing during use.
+2305,1334,software,4.88,4,Laptop overheating and shutting down.
+2306,1221,software,5.3,,Laptop overheating and shutting down.
+2307,1036,hardware,8.63,3,Frequent disconnections from corporate network.
+2308,1988,hardware,10.33,1,Application crashing during use.
+2309,1277,network,8.26,2,Printer not responding to print commands.
+2310,1195,network,9.81,2,Printer not responding to print commands.
+2311,1915,software,5.14,4,Blue screen error on startup.
+2312,1863,software,5.15,4,Unable to connect to WiFi network.
+2313,1483,network,9.03,2,Need assistance updating antivirus software.
+2314,1241,software,6.3,5,Keyboard keys not working properly.
+2315,1323,software,3.52,5,Application crashing during use.
+2316,1730,network,5.5,3,Printer not responding to print commands.
+2317,1191,software,7.54,2,Printer not responding to print commands.
+2318,1016,hardware,12.11,1,Unable to connect to WiFi network.
+2319,1523,network,7.56,4,Laptop overheating and shutting down.
+2320,1917,software,5.03,3,Printer not responding to print commands.
+2321,1400,software,4.41,3,Blue screen error on startup.
+2322,1905,hardware,10.63,1,Printer not responding to print commands.
+2323,1885,hardware,7.08,4,Printer not responding to print commands.
+2324,1704,software,6.26,,Unable to connect to WiFi network.
+2325,1021,software,5.26,5,Blue screen error on startup.
+2326,1473,software,5.32,3,VPN connection dropping intermittently.
+2327,1119,software,3.66,4,Software installation fails with error code.
+2328,1209,network,9.05,1,Unable to connect to WiFi network.
+2329,1305,network,6.26,5,Laptop overheating and shutting down.
+2330,1269,network,6.62,5,Laptop overheating and shutting down.
+2331,1703,software,5.13,3,Application crashing during use.
+2332,1686,network,13.01,1,Unable to connect to WiFi network.
+2333,1284,hardware,10.51,2,Frequent disconnections from corporate network.
+2334,1715,network,2.86,4,Unable to connect to WiFi network.
+2335,1675,network,6.71,3,VPN connection dropping intermittently.
+2336,1762,software,6.03,3,Printer not responding to print commands.
+2337,1226,software,3.31,4,Unable to connect to WiFi network.
+2338,1947,network,9.66,1,Frequent disconnections from corporate network.
+2339,1380,software,5.24,3,Keyboard keys not working properly.
+2340,1459,hardware,12.97,1,Frequent disconnections from corporate network.
+2341,1006,network,6.88,5,Laptop overheating and shutting down.
+2342,1028,software,4.04,3,VPN connection dropping intermittently.
+2343,1906,hardware,11.69,2,Printer not responding to print commands.
+2344,1032,network,7.98,,Frequent disconnections from corporate network.
+2345,1645,software,4.9,4,VPN connection dropping intermittently.
+2346,1878,software,7.35,2,Keyboard keys not working properly.
+2347,1078,software,5.91,4,Blue screen error on startup.
+2348,1927,network,4.02,3,Blue screen error on startup.
+2349,1946,network,9.6,3,Blue screen error on startup.
+2350,1458,software,6.05,3,Keyboard keys not working properly.
+2351,1569,network,10.37,1,Printer not responding to print commands.
+2352,1982,software,3.59,5,Software installation fails with error code.
+2353,1537,software,5.49,4,Software installation fails with error code.
+2354,1481,software,5.17,3,VPN connection dropping intermittently.
+2355,1429,hardware,7.13,4,Blue screen error on startup.
+2356,1737,software,6.42,3,Laptop overheating and shutting down.
+2357,1284,network,7.52,2,Printer not responding to print commands.
+2358,1515,hardware,13.46,3,Software installation fails with error code.
+2359,1976,network,6.51,3,Unable to connect to WiFi network.
+2360,1098,network,5.08,5,Application crashing during use.
+2361,1396,software,4.64,3,Need assistance updating antivirus software.
+2362,1488,software,5.35,4,Keyboard keys not working properly.
+2363,1038,software,4.2,4,Keyboard keys not working properly.
+2364,1270,network,1.87,5,Software installation fails with error code.
+2365,1886,software,5.58,4,Keyboard keys not working properly.
+2366,1796,network,8.76,2,Blue screen error on startup.
+2367,1156,hardware,12.06,2,Need assistance updating antivirus software.
+2368,1074,network,7.24,2,Laptop overheating and shutting down.
+2369,1883,hardware,8.69,3,Unable to connect to WiFi network.
+2370,1799,software,7.16,4,VPN connection dropping intermittently.
+2371,1129,hardware,5.27,4,Need assistance updating antivirus software.
+2372,1686,software,4.63,4,Laptop overheating and shutting down.
+2373,1973,software,5.21,3,Keyboard keys not working properly.
+2374,1083,software,5.91,4,Software installation fails with error code.
+2375,1021,network,8.34,2,Frequent disconnections from corporate network.
+2376,1458,network,6.16,4,VPN connection dropping intermittently.
+2377,1538,hardware,13.5,1,Printer not responding to print commands.
+2378,1706,hardware,10.01,2,Application crashing during use.
+2379,1848,software,2.5,4,Software installation fails with error code.
+2380,1381,network,8.42,3,Keyboard keys not working properly.
+2381,1747,software,5.71,3,Software installation fails with error code.
+2382,1439,software,7.94,4,Blue screen error on startup.
+2383,1603,software,5.61,3,Keyboard keys not working properly.
+2384,1988,software,2.78,5,Software installation fails with error code.
+2385,1020,hardware,5.66,3,Need assistance updating antivirus software.
+2386,1302,network,10.52,2,Need assistance updating antivirus software.
+2387,1975,software,3.8,5,Unable to connect to WiFi network.
+2388,1868,software,2.68,5,Unable to connect to WiFi network.
+2389,1954,software,6.5,3,VPN connection dropping intermittently.
+2390,1083,network,7.05,3,Software installation fails with error code.
+2391,1773,network,9.89,1,Unable to connect to WiFi network.
+2392,1658,hardware,7.26,2,Blue screen error on startup.
+2393,1952,software,7.21,3,Laptop overheating and shutting down.
+2394,1452,software,6.31,3,Unable to connect to WiFi network.
+2395,1386,hardware,7.83,2,Software installation fails with error code.
+2396,1506,software,2.51,5,Need assistance updating antivirus software.
+2397,1256,network,12.61,3,Application crashing during use.
+2398,1569,software,4.68,4,Frequent disconnections from corporate network.
+2399,1891,software,3.86,4,Printer not responding to print commands.
+2400,1933,software,7.08,2,Unable to connect to WiFi network.
+2401,1526,software,6.42,4,Printer not responding to print commands.
+2402,1161,software,6.77,3,Frequent disconnections from corporate network.
+2403,1956,software,4.85,5,VPN connection dropping intermittently.
+2404,1162,hardware,15.64,1,Need assistance updating antivirus software.
+2405,1831,network,5.38,5,Need assistance updating antivirus software.
+2406,1792,network,6.9,4,Frequent disconnections from corporate network.
+2407,1791,software,5.58,4,Software installation fails with error code.
+2408,1523,network,10.34,1,Printer not responding to print commands.
+2409,1785,network,9.32,3,Printer not responding to print commands.
+2410,1270,hardware,9.75,1,Frequent disconnections from corporate network.
+2411,1491,hardware,8.57,3,Printer not responding to print commands.
+2412,1207,software,6.76,5,Software installation fails with error code.
+2413,1538,network,9.53,1,Need assistance updating antivirus software.
+2414,1583,network,6.25,4,VPN connection dropping intermittently.
+2415,1059,network,6.19,4,Blue screen error on startup.
+2416,1429,network,6.91,3,Need assistance updating antivirus software.
+2417,1984,hardware,7.98,3,Laptop overheating and shutting down.
+2418,1656,network,10.06,1,Laptop overheating and shutting down.
+2419,1604,software,5.65,3,Need assistance updating antivirus software.
+2420,1308,network,9.12,2,Software installation fails with error code.
+2421,1519,hardware,10.58,2,Blue screen error on startup.
+2422,1590,software,5.36,3,VPN connection dropping intermittently.
+2423,1026,hardware,5.25,,Printer not responding to print commands.
+2424,1685,software,6.19,5,Laptop overheating and shutting down.
+2425,1561,software,4.15,4,Laptop overheating and shutting down.
+2426,1198,network,7.93,3,Laptop overheating and shutting down.
+2427,1386,software,4.29,3,Keyboard keys not working properly.
+2428,1348,software,5.22,4,Software installation fails with error code.
+2429,1959,software,5.86,4,Need assistance updating antivirus software.
+2430,1939,network,5.98,3,Blue screen error on startup.
+2431,1692,network,8.51,3,Need assistance updating antivirus software.
+2432,1535,software,4.33,3,Keyboard keys not working properly.
+2433,1827,software,6.98,3,Laptop overheating and shutting down.
+2434,1377,software,3.33,5,Frequent disconnections from corporate network.
+2435,1898,network,5.99,4,Keyboard keys not working properly.
+2436,1915,software,4.46,4,Software installation fails with error code.
+2437,1557,network,6.15,4,VPN connection dropping intermittently.
+2438,1526,network,7.55,4,Printer not responding to print commands.
+2439,1152,software,4.21,4,Application crashing during use.
+2440,1733,network,8.18,3,Blue screen error on startup.
+2441,1205,network,10.02,1,Keyboard keys not working properly.
+2442,1454,software,5.11,3,VPN connection dropping intermittently.
+2443,1272,network,8.32,2,Application crashing during use.
+2444,1893,network,5.89,4,VPN connection dropping intermittently.
+2445,1235,network,7.73,3,Need assistance updating antivirus software.
+2446,1851,network,7.16,2,Need assistance updating antivirus software.
+2447,1739,network,9.36,1,Laptop overheating and shutting down.
+2448,1520,software,3.85,4,Unable to connect to WiFi network.
+2449,1677,network,6.28,3,Printer not responding to print commands.
+2450,1943,network,8.63,,Software installation fails with error code.
+2451,1955,software,7.97,3,Software installation fails with error code.
+2452,1830,software,4.74,3,Laptop overheating and shutting down.
+2453,1725,hardware,10.5,2,Need assistance updating antivirus software.
+2454,1500,software,6.42,4,Laptop overheating and shutting down.
+2455,1116,software,5.76,4,Frequent disconnections from corporate network.
+2456,1385,software,5.77,3,Keyboard keys not working properly.
+2457,1343,software,4.86,4,Keyboard keys not working properly.
+2458,1583,software,4.89,3,Blue screen error on startup.
+2459,1394,network,6.49,5,Need assistance updating antivirus software.
+2460,1063,network,8.97,3,Unable to connect to WiFi network.
+2461,1716,network,8.93,3,Frequent disconnections from corporate network.
+2462,1720,hardware,12.15,1,Frequent disconnections from corporate network.
+2463,1071,software,4.27,3,Need assistance updating antivirus software.
+2464,1788,software,6.25,3,Keyboard keys not working properly.
+2465,1273,software,6.7,5,Application crashing during use.
+2466,1989,software,3.18,4,Keyboard keys not working properly.
+2467,1319,network,7.41,2,Blue screen error on startup.
+2468,1337,network,10.35,3,Blue screen error on startup.
+2469,1365,hardware,8.05,3,Need assistance updating antivirus software.
+2470,1494,software,5.79,4,Printer not responding to print commands.
+2471,1606,software,5.01,3,Printer not responding to print commands.
+2472,1165,hardware,10.99,2,Unable to connect to WiFi network.
+2473,1543,network,8.08,2,Printer not responding to print commands.
+2474,1010,hardware,12.24,,VPN connection dropping intermittently.
+2475,1300,software,3.47,4,VPN connection dropping intermittently.
+2476,1728,software,3.63,5,Software installation fails with error code.
+2477,1800,software,7.2,3,VPN connection dropping intermittently.
+2478,1101,network,12.2,2,Application crashing during use.
+2479,1424,network,7.99,3,Application crashing during use.
+2480,1391,software,7.57,2,Application crashing during use.
+2481,1778,hardware,7.68,2,VPN connection dropping intermittently.
+2482,1213,software,4.2,4,Unable to connect to WiFi network.
+2483,1690,network,10.91,2,Keyboard keys not working properly.
+2484,1087,software,6.21,5,Need assistance updating antivirus software.
+2485,1552,network,11.21,2,Laptop overheating and shutting down.
+2486,1400,network,8.94,3,Software installation fails with error code.
+2487,1587,software,3.48,5,Blue screen error on startup.
+2488,1888,software,5.34,3,Frequent disconnections from corporate network.
+2489,1045,network,10.4,1,Blue screen error on startup.
+2490,1671,network,7.73,2,Software installation fails with error code.
+2491,1462,hardware,9.14,1,Blue screen error on startup.
+2492,1591,network,8.97,3,Keyboard keys not working properly.
+2493,1309,software,4.16,4,Blue screen error on startup.
+2494,1085,software,5.44,4,Blue screen error on startup.
+2495,1091,network,8.13,3,Keyboard keys not working properly.
+2496,1659,network,7.02,3,Keyboard keys not working properly.
+2497,1672,software,6.47,,VPN connection dropping intermittently.
+2498,1713,software,5.97,4,Keyboard keys not working properly.
+2499,1935,software,4.47,4,Laptop overheating and shutting down.
+2500,1927,software,4.98,5,Printer not responding to print commands.
+2501,1241,hardware,9.19,1,Laptop overheating and shutting down.
+2502,1864,software,4.04,3,Blue screen error on startup.
+2503,1001,software,2.45,5,Laptop overheating and shutting down.
+2504,1224,software,4.27,5,Software installation fails with error code.
+2505,1800,software,4.06,4,Need assistance updating antivirus software.
+2506,1744,software,5.17,4,Printer not responding to print commands.
+2507,1972,software,5.66,5,Need assistance updating antivirus software.
+2508,1925,software,3.8,5,Frequent disconnections from corporate network.
+2509,1928,network,8.75,3,Laptop overheating and shutting down.
+2510,1588,software,3.57,5,Need assistance updating antivirus software.
+2511,1115,network,7.75,2,Keyboard keys not working properly.
+2512,1665,network,6.8,5,Unable to connect to WiFi network.
+2513,1917,network,9.49,1,Unable to connect to WiFi network.
+2514,1102,software,5.18,5,Keyboard keys not working properly.
+2515,1193,software,4.83,3,Need assistance updating antivirus software.
+2516,1165,network,6.75,4,Blue screen error on startup.
+2517,1870,software,4.51,4,Keyboard keys not working properly.
+2518,1089,software,7.74,3,Printer not responding to print commands.
+2519,1685,network,7,2,Application crashing during use.
+2520,1121,software,5.72,4,Software installation fails with error code.
+2521,1142,software,4.83,4,Blue screen error on startup.
+2522,1993,software,5.68,4,Printer not responding to print commands.
+2523,1105,software,6.26,3,Need assistance updating antivirus software.
+2524,1886,software,4.47,4,Blue screen error on startup.
+2525,1427,network,9.42,1,Blue screen error on startup.
+2526,1304,network,13.51,1,Need assistance updating antivirus software.
+2527,1871,network,9.14,2,Keyboard keys not working properly.
+2528,1970,hardware,14.84,3,Need assistance updating antivirus software.
+2529,1316,network,8.96,3,Laptop overheating and shutting down.
+2530,1962,network,6.14,4,Laptop overheating and shutting down.
+2531,1634,hardware,10.83,1,Software installation fails with error code.
+2532,1901,hardware,9.01,1,Unable to connect to WiFi network.
+2533,1008,software,4.11,3,VPN connection dropping intermittently.
+2534,1773,network,7.85,4,Software installation fails with error code.
+2535,1072,network,7.69,4,Software installation fails with error code.
+2536,1358,software,3.41,5,Application crashing during use.
+2537,1222,network,13.42,2,VPN connection dropping intermittently.
+2538,1415,network,9.62,2,Unable to connect to WiFi network.
+2539,1552,software,5.37,4,Blue screen error on startup.
+2540,1369,hardware,10.27,1,VPN connection dropping intermittently.
+2541,1715,software,6.8,3,Application crashing during use.
+2542,1263,software,8.11,3,Frequent disconnections from corporate network.
+2543,1839,software,6.03,5,Software installation fails with error code.
+2544,1689,network,8.24,2,Need assistance updating antivirus software.
+2545,1859,software,7.21,2,Software installation fails with error code.
+2546,1317,network,8.28,3,Keyboard keys not working properly.
+2547,1083,network,8.87,4,Application crashing during use.
+2548,1317,software,6.5,3,Software installation fails with error code.
+2549,1110,network,7.23,2,Software installation fails with error code.
+2550,1250,hardware,3.77,5,VPN connection dropping intermittently.
+2551,1382,network,7.13,3,VPN connection dropping intermittently.
+2552,1006,software,6.16,3,Need assistance updating antivirus software.
+2553,1458,software,6.05,3,Printer not responding to print commands.
+2554,1083,network,10.69,2,Keyboard keys not working properly.
+2555,1207,network,7.21,3,Need assistance updating antivirus software.
+2556,1899,software,7.37,4,Frequent disconnections from corporate network.
+2557,1389,hardware,10.56,2,Keyboard keys not working properly.
+2558,1313,hardware,11.81,1,VPN connection dropping intermittently.
+2559,1021,software,6.36,4,Software installation fails with error code.
+2560,1409,software,2.93,5,Blue screen error on startup.
+2561,1894,software,3.49,4,Software installation fails with error code.
+2562,1514,software,3.44,5,Unable to connect to WiFi network.
+2563,1126,software,6.61,5,Need assistance updating antivirus software.
+2564,1808,software,4.54,3,Keyboard keys not working properly.
+2565,1699,hardware,16.08,1,Blue screen error on startup.
+2566,1873,software,5.01,3,Unable to connect to WiFi network.
+2567,1013,hardware,5.59,3,Frequent disconnections from corporate network.
+2568,1970,software,3.99,5,Software installation fails with error code.
+2569,1977,network,8.23,3,Printer not responding to print commands.
+2570,1011,network,9.03,3,Application crashing during use.
+2571,1086,software,3.52,4,Unable to connect to WiFi network.
+2572,1523,software,5.85,4,Software installation fails with error code.
+2573,1908,hardware,12.51,3,Software installation fails with error code.
+2574,1536,network,6.72,4,Keyboard keys not working properly.
+2575,1300,hardware,15.91,1,Keyboard keys not working properly.
+2576,1242,hardware,8.4,2,Printer not responding to print commands.
+2577,1121,network,6,3,Unable to connect to WiFi network.
+2578,1146,hardware,5.41,5,VPN connection dropping intermittently.
+2579,1566,hardware,13.66,3,Keyboard keys not working properly.
+2580,1749,software,5.03,5,Application crashing during use.
+2581,1355,software,4.28,5,Software installation fails with error code.
+2582,1684,hardware,5.58,3,Software installation fails with error code.
+2583,1903,software,4.42,5,Frequent disconnections from corporate network.
+2584,1732,software,8.57,4,Frequent disconnections from corporate network.
+2585,1630,hardware,3.57,5,Printer not responding to print commands.
+2586,1308,software,4.05,3,Unable to connect to WiFi network.
+2587,1694,software,7.69,3,Laptop overheating and shutting down.
+2588,1287,network,10.5,1,Blue screen error on startup.
+2589,1306,software,4.14,,Keyboard keys not working properly.
+2590,1811,network,8.41,4,Unable to connect to WiFi network.
+2591,1593,hardware,11.39,3,Software installation fails with error code.
+2592,1965,software,5.2,3,Need assistance updating antivirus software.
+2593,1913,network,11.57,1,Frequent disconnections from corporate network.
+2594,1722,software,5.51,5,Blue screen error on startup.
+2595,1661,network,10.27,2,Keyboard keys not working properly.
+2596,1548,software,5.27,3,VPN connection dropping intermittently.
+2597,1351,hardware,3.9,5,VPN connection dropping intermittently.
+2598,1311,hardware,6.42,5,Frequent disconnections from corporate network.
+2599,1872,network,6.03,5,Unable to connect to WiFi network.
+2600,1058,network,7.5,2,Keyboard keys not working properly.
+2601,1642,hardware,16.24,1,Blue screen error on startup.
+2602,1923,hardware,11.09,3,Software installation fails with error code.
+2603,1713,software,4.84,3,Unable to connect to WiFi network.
+2604,1754,software,6.86,4,Frequent disconnections from corporate network.
+2605,1034,software,2.82,4,Printer not responding to print commands.
+2606,1444,hardware,8.53,2,Laptop overheating and shutting down.
+2607,1092,software,4.04,4,Unable to connect to WiFi network.
+2608,1949,network,8.8,2,Application crashing during use.
+2609,1958,network,9.79,3,Keyboard keys not working properly.
+2610,1206,hardware,11.41,1,VPN connection dropping intermittently.
+2611,1352,network,8.97,4,Application crashing during use.
+2612,1902,software,4.46,5,Unable to connect to WiFi network.
+2613,1331,software,5.48,3,Unable to connect to WiFi network.
+2614,1816,network,6.32,4,Application crashing during use.
+2615,1861,network,9.35,1,Printer not responding to print commands.
+2616,1724,hardware,8.5,,Application crashing during use.
+2617,1158,hardware,6.64,4,Software installation fails with error code.
+2618,1953,hardware,10.11,1,Blue screen error on startup.
+2619,1956,hardware,4.26,4,Application crashing during use.
+2620,1023,software,7.21,3,Application crashing during use.
+2621,1403,hardware,12.39,3,Keyboard keys not working properly.
+2622,1804,software,5.51,3,Blue screen error on startup.
+2623,1515,software,2.56,5,Laptop overheating and shutting down.
+2624,1731,hardware,7.9,2,Application crashing during use.
+2625,1363,network,8.08,4,Application crashing during use.
+2626,1381,software,4.61,3,Software installation fails with error code.
+2627,1531,software,2.47,5,VPN connection dropping intermittently.
+2628,1955,network,5.37,3,Software installation fails with error code.
+2629,1151,network,7.43,3,Application crashing during use.
+2630,1561,hardware,6.15,5,Keyboard keys not working properly.
+2631,1688,hardware,14.11,2,Software installation fails with error code.
+2632,1946,software,5.74,4,Keyboard keys not working properly.
+2633,1607,network,6.39,4,Blue screen error on startup.
+2634,1616,network,10.34,3,Keyboard keys not working properly.
+2635,1419,hardware,12.9,2,Printer not responding to print commands.
+2636,1249,software,5.43,5,Need assistance updating antivirus software.
+2637,1116,software,4.94,4,Blue screen error on startup.
+2638,1865,software,4.55,4,Need assistance updating antivirus software.
+2639,1511,software,4.19,3,Application crashing during use.
+2640,1739,software,2.99,5,Application crashing during use.
+2641,1577,hardware,14.58,1,Printer not responding to print commands.
+2642,1334,software,4.22,5,Unable to connect to WiFi network.
+2643,1417,software,5.04,4,Need assistance updating antivirus software.
+2644,1931,software,3.63,5,Software installation fails with error code.
+2645,1773,software,4.61,3,Printer not responding to print commands.
+2646,1294,software,9.28,1,Blue screen error on startup.
+2647,1937,network,6.55,5,Laptop overheating and shutting down.
+2648,1754,software,7.17,2,Software installation fails with error code.
+2649,1370,network,7.94,3,Keyboard keys not working properly.
+2650,1185,hardware,12.04,3,Application crashing during use.
+2651,1245,software,6.87,4,Blue screen error on startup.
+2652,1636,hardware,10.82,1,Printer not responding to print commands.
+2653,1267,network,7.3,4,Need assistance updating antivirus software.
+2654,1642,software,4.72,3,Need assistance updating antivirus software.
+2655,1236,software,4.77,5,Frequent disconnections from corporate network.
+2656,1529,software,7.8,2,Application crashing during use.
+2657,1551,software,2.77,5,Software installation fails with error code.
+2658,1020,software,2.34,4,Keyboard keys not working properly.
+2659,1910,software,2.44,5,Keyboard keys not working properly.
+2660,1736,network,6.21,3,Application crashing during use.
+2661,1866,network,9.4,3,Frequent disconnections from corporate network.
+2662,1793,software,6.14,4,Frequent disconnections from corporate network.
+2663,1519,software,4.09,3,Software installation fails with error code.
+2664,1099,network,7.94,3,Frequent disconnections from corporate network.
+2665,1751,network,5.77,4,Printer not responding to print commands.
+2666,1477,network,5.95,3,Frequent disconnections from corporate network.
+2667,1598,software,5.87,3,Need assistance updating antivirus software.
+2668,1297,software,6.57,4,VPN connection dropping intermittently.
+2669,1939,hardware,8.57,2,Unable to connect to WiFi network.
+2670,1525,hardware,14.91,1,Need assistance updating antivirus software.
+2671,1333,software,6.45,3,Need assistance updating antivirus software.
+2672,1001,network,11.18,2,Laptop overheating and shutting down.
+2673,1374,network,7.4,3,Laptop overheating and shutting down.
+2674,1292,network,11.04,1,Application crashing during use.
+2675,1836,hardware,16.54,3,Laptop overheating and shutting down.
+2676,1933,software,4.38,5,Application crashing during use.
+2677,1552,network,7.69,2,Need assistance updating antivirus software.
+2678,1317,software,3.58,4,Unable to connect to WiFi network.
+2679,1501,software,3.28,5,Software installation fails with error code.
+2680,1827,software,3.3,5,Software installation fails with error code.
+2681,1380,network,6.38,3,VPN connection dropping intermittently.
+2682,1622,hardware,10.82,1,Blue screen error on startup.
+2683,1013,software,3.85,5,Software installation fails with error code.
+2684,1503,network,8.49,2,Blue screen error on startup.
+2685,1230,hardware,10.79,2,Frequent disconnections from corporate network.
+2686,1984,network,7.06,3,Keyboard keys not working properly.
+2687,1083,hardware,9.81,2,Need assistance updating antivirus software.
+2688,1129,hardware,8.42,4,Unable to connect to WiFi network.
+2689,1742,software,4.53,3,Application crashing during use.
+2690,1837,software,3.79,5,Blue screen error on startup.
+2691,1144,software,5.13,4,VPN connection dropping intermittently.
+2692,1890,hardware,8.2,3,Software installation fails with error code.
+2693,1856,software,3.25,4,Printer not responding to print commands.
+2694,1027,software,5.89,3,Software installation fails with error code.
+2695,1065,hardware,11.88,1,Laptop overheating and shutting down.
+2696,1162,hardware,13.34,1,Need assistance updating antivirus software.
+2697,1228,hardware,6.93,3,Laptop overheating and shutting down.
+2698,1260,software,4.28,4,Software installation fails with error code.
+2699,1448,hardware,10.69,1,Printer not responding to print commands.
+2700,1423,software,4.25,4,Laptop overheating and shutting down.
+2701,1459,hardware,11.71,1,Unable to connect to WiFi network.
+2702,1951,software,5.75,3,Laptop overheating and shutting down.
+2703,1675,software,5.72,3,Printer not responding to print commands.
+2704,1300,software,7.19,2,Laptop overheating and shutting down.
+2705,1918,software,5.97,4,Blue screen error on startup.
+2706,1302,software,5.23,3,Frequent disconnections from corporate network.
+2707,1286,software,4.71,5,Application crashing during use.
+2708,1394,software,4.81,5,Software installation fails with error code.
+2709,1009,software,3.4,5,Blue screen error on startup.
+2710,1706,hardware,4.7,4,Application crashing during use.
+2711,1629,software,5.7,3,Frequent disconnections from corporate network.
+2712,1269,network,10.45,2,Blue screen error on startup.
+2713,1591,network,7.34,3,VPN connection dropping intermittently.
+2714,1969,network,11.17,1,Blue screen error on startup.
+2715,1604,software,4.74,3,Unable to connect to WiFi network.
+2716,1777,network,4.09,3,Printer not responding to print commands.
+2717,1843,network,9.84,1,Software installation fails with error code.
+2718,1861,hardware,8.56,3,Need assistance updating antivirus software.
+2719,1360,hardware,13.03,1,Application crashing during use.
+2720,1256,software,3.08,5,Laptop overheating and shutting down.
+2721,1132,hardware,11.24,1,Software installation fails with error code.
+2722,1275,network,6.4,4,Need assistance updating antivirus software.
+2723,1775,software,5.3,3,Frequent disconnections from corporate network.
+2724,1682,software,6.15,4,Blue screen error on startup.
+2725,1971,software,5.8,4,Need assistance updating antivirus software.
+2726,1512,software,5.1,4,VPN connection dropping intermittently.
+2727,1312,software,2.93,5,Software installation fails with error code.
+2728,1575,software,6.1,4,Software installation fails with error code.
+2729,1885,software,6.55,3,Software installation fails with error code.
+2730,1979,network,5.91,4,Printer not responding to print commands.
+2731,1283,network,6.21,5,Frequent disconnections from corporate network.
+2732,1120,network,10.15,2,Printer not responding to print commands.
+2733,1106,network,7.58,2,Software installation fails with error code.
+2734,1932,software,3.69,4,VPN connection dropping intermittently.
+2735,1686,network,8.55,4,Laptop overheating and shutting down.
+2736,1996,hardware,8.08,2,VPN connection dropping intermittently.
+2737,1203,network,8.32,2,Application crashing during use.
+2738,1164,network,7.17,2,Frequent disconnections from corporate network.
+2739,1304,software,4.51,5,Blue screen error on startup.
+2740,1496,network,10.22,1,Software installation fails with error code.
+2741,1631,software,1.3,5,Need assistance updating antivirus software.
+2742,1555,software,5.83,4,Laptop overheating and shutting down.
+2743,1823,network,9.89,1,Blue screen error on startup.
+2744,1155,network,6.76,5,Keyboard keys not working properly.
+2745,1366,software,6.41,4,VPN connection dropping intermittently.
+2746,1718,network,6.08,4,Laptop overheating and shutting down.
+2747,1901,network,6.68,5,Keyboard keys not working properly.
+2748,1619,network,6.45,5,Printer not responding to print commands.
+2749,1250,network,9.9,1,Keyboard keys not working properly.
+2750,1956,software,2.38,4,Blue screen error on startup.
+2751,1915,software,7.46,4,Frequent disconnections from corporate network.
+2752,1881,software,4.54,4,VPN connection dropping intermittently.
+2753,1333,network,9.23,3,Laptop overheating and shutting down.
+2754,1641,network,9.06,3,Keyboard keys not working properly.
+2755,1968,hardware,10.45,1,VPN connection dropping intermittently.
+2756,1510,software,4.1,5,Laptop overheating and shutting down.
+2757,1292,hardware,13.73,1,Laptop overheating and shutting down.
+2758,1019,software,4.23,4,Blue screen error on startup.
+2759,1281,software,3.9,4,VPN connection dropping intermittently.
+2760,1796,software,6.32,5,Blue screen error on startup.
+2761,1000,software,5.22,4,Keyboard keys not working properly.
+2762,1118,software,7.04,3,Application crashing during use.
+2763,1034,software,4.91,5,Frequent disconnections from corporate network.
+2764,1197,network,6.7,4,Application crashing during use.
+2765,1484,software,5.41,4,Unable to connect to WiFi network.
+2766,1756,software,4.33,5,Software installation fails with error code.
+2767,1058,hardware,8.13,3,Application crashing during use.
+2768,1836,software,6.25,5,Printer not responding to print commands.
+2769,1160,software,7.75,4,Frequent disconnections from corporate network.
+2770,1690,network,7.51,2,Software installation fails with error code.
+2771,1205,software,3.54,5,Keyboard keys not working properly.
+2772,1011,software,4.77,3,Blue screen error on startup.
+2773,1489,hardware,11.54,2,Printer not responding to print commands.
+2774,1275,software,5.39,3,Software installation fails with error code.
+2775,1692,software,6.79,4,Software installation fails with error code.
+2776,1241,software,6,3,Laptop overheating and shutting down.
+2777,1215,hardware,6.69,3,Unable to connect to WiFi network.
+2778,1250,software,4.26,3,Blue screen error on startup.
+2779,1810,software,2.93,4,Keyboard keys not working properly.
+2780,1125,hardware,13.43,2,VPN connection dropping intermittently.
+2781,1993,network,4.02,3,Application crashing during use.
+2782,1216,hardware,6.15,3,Frequent disconnections from corporate network.
+2783,1305,network,6.98,3,Unable to connect to WiFi network.
+2784,1796,software,5.85,4,Laptop overheating and shutting down.
+2785,1184,software,4.22,5,Laptop overheating and shutting down.
+2786,1038,software,4.45,3,Software installation fails with error code.
+2787,1222,hardware,8.96,3,Need assistance updating antivirus software.
+2788,1183,network,8.35,3,Application crashing during use.
+2789,1494,network,5.56,3,Unable to connect to WiFi network.
+2790,1426,software,3.58,5,Software installation fails with error code.
+2791,1177,software,7.52,2,Unable to connect to WiFi network.
+2792,1918,software,5.6,4,Printer not responding to print commands.
+2793,1427,network,9.52,1,Blue screen error on startup.
+2794,1293,network,8.12,4,Frequent disconnections from corporate network.
+2795,1851,network,7.72,2,Application crashing during use.
+2796,1150,network,8.91,3,Laptop overheating and shutting down.
+2797,1383,software,6.09,5,Need assistance updating antivirus software.
+2798,1637,software,6.27,3,Keyboard keys not working properly.
+2799,1812,hardware,9.62,1,VPN connection dropping intermittently.
+2800,1307,hardware,12.87,1,Blue screen error on startup.
+2801,1335,network,3.07,5,Application crashing during use.
+2802,1945,software,6.34,3,Printer not responding to print commands.
+2803,1745,network,7.15,2,Application crashing during use.
+2804,1891,network,9.11,2,Keyboard keys not working properly.
+2805,1374,software,4.03,4,Frequent disconnections from corporate network.
+2806,1007,network,5.35,4,Frequent disconnections from corporate network.
+2807,1340,network,8.68,2,Unable to connect to WiFi network.
+2808,1128,hardware,5.5,3,Software installation fails with error code.
+2809,1775,software,4.4,4,Frequent disconnections from corporate network.
+2810,1668,software,3.78,5,Need assistance updating antivirus software.
+2811,1351,network,7.65,2,VPN connection dropping intermittently.
+2812,1357,network,9.59,1,Printer not responding to print commands.
+2813,1516,hardware,8.53,2,Keyboard keys not working properly.
+2814,1494,network,8.63,2,Laptop overheating and shutting down.
+2815,1085,software,6.11,3,Frequent disconnections from corporate network.
+2816,1174,network,6.79,3,Laptop overheating and shutting down.
+2817,1801,software,4.11,4,Frequent disconnections from corporate network.
+2818,1192,network,10.74,2,Need assistance updating antivirus software.
+2819,1310,hardware,9.76,1,Laptop overheating and shutting down.
+2820,1118,hardware,11.53,1,Software installation fails with error code.
+2821,1217,software,5.75,3,Printer not responding to print commands.
+2822,1426,network,5.6,4,VPN connection dropping intermittently.
+2823,1969,hardware,7.72,4,Need assistance updating antivirus software.
+2824,1413,software,5.56,4,Software installation fails with error code.
+2825,1113,software,1.9,5,VPN connection dropping intermittently.
+2826,1977,software,4.68,5,Software installation fails with error code.
+2827,1144,network,6.27,3,Software installation fails with error code.
+2828,1537,network,10.22,1,Software installation fails with error code.
+2829,1647,software,5.52,4,Unable to connect to WiFi network.
+2830,1302,network,10.38,1,VPN connection dropping intermittently.
+2831,1743,software,4.94,4,Software installation fails with error code.
+2832,1880,software,4.83,4,Blue screen error on startup.
+2833,1587,hardware,9.09,2,Blue screen error on startup.
+2834,1986,hardware,8.49,2,Frequent disconnections from corporate network.
+2835,1839,hardware,18.05,2,Printer not responding to print commands.
+2836,1344,network,9.61,2,Laptop overheating and shutting down.
+2837,1813,network,5.87,5,Frequent disconnections from corporate network.
+2838,1963,software,8.96,3,Unable to connect to WiFi network.
+2839,1800,network,7.19,4,Blue screen error on startup.
+2840,1000,network,8.64,2,VPN connection dropping intermittently.
+2841,1146,software,6.41,4,Printer not responding to print commands.
+2842,1286,software,2.69,4,Printer not responding to print commands.
+2843,1975,hardware,7.52,2,Laptop overheating and shutting down.
+2844,1653,network,11.3,3,VPN connection dropping intermittently.
+2845,1052,network,7.55,4,Keyboard keys not working properly.
+2846,1303,network,10,1,Laptop overheating and shutting down.
+2847,1068,hardware,8.64,2,Printer not responding to print commands.
+2848,1360,software,4.86,3,Unable to connect to WiFi network.
+2849,1601,hardware,15.36,3,Need assistance updating antivirus software.
+2850,1957,hardware,11.31,1,Need assistance updating antivirus software.
+2851,1219,software,4.48,3,Blue screen error on startup.
+2852,1961,software,3.97,4,Printer not responding to print commands.
+2853,1703,software,4.11,4,Unable to connect to WiFi network.
+2854,1965,software,6.86,5,Laptop overheating and shutting down.
+2855,1574,software,6.15,3,Unable to connect to WiFi network.
+2856,1584,software,3.28,5,Application crashing during use.
+2857,1160,hardware,10.26,1,Laptop overheating and shutting down.
+2858,1680,hardware,9.8,1,Software installation fails with error code.
+2859,1088,software,5.47,4,Laptop overheating and shutting down.
+2860,1687,software,4.09,3,Blue screen error on startup.
+2861,1780,software,6.65,3,Need assistance updating antivirus software.
+2862,1584,network,8,4,Laptop overheating and shutting down.
+2863,1756,network,8.75,2,Software installation fails with error code.
+2864,1588,software,3.82,5,Application crashing during use.
+2865,1158,software,3.9,5,Unable to connect to WiFi network.
+2866,1488,network,13.32,1,VPN connection dropping intermittently.
+2867,1970,hardware,15.4,2,Need assistance updating antivirus software.
+2868,1323,network,7.86,4,Unable to connect to WiFi network.
+2869,1609,network,11.07,2,Application crashing during use.
+2870,1380,software,6.82,3,VPN connection dropping intermittently.
+2871,1101,network,6.75,4,Printer not responding to print commands.
+2872,1493,network,6.55,4,Frequent disconnections from corporate network.
+2873,1643,software,6,4,Blue screen error on startup.
+2874,1613,software,5.39,4,Unable to connect to WiFi network.
+2875,1018,software,4.4,3,Keyboard keys not working properly.
+2876,1453,software,6.08,4,VPN connection dropping intermittently.
+2877,1481,software,2.84,5,Printer not responding to print commands.
+2878,1593,network,8.23,2,Keyboard keys not working properly.
+2879,1396,hardware,6.28,4,Frequent disconnections from corporate network.
+2880,1278,network,5.59,3,Frequent disconnections from corporate network.
+2881,1850,hardware,7.88,2,Need assistance updating antivirus software.
+2882,1364,software,5.54,5,Keyboard keys not working properly.
+2883,1330,hardware,7.97,2,Need assistance updating antivirus software.
+2884,1640,network,5.56,3,Need assistance updating antivirus software.
+2885,1343,software,5.72,4,Need assistance updating antivirus software.
+2886,1821,network,10.99,3,Need assistance updating antivirus software.
+2887,1454,network,9.28,3,Printer not responding to print commands.
+2888,1600,software,7.7,3,Blue screen error on startup.
+2889,1724,network,10.82,1,Laptop overheating and shutting down.
+2890,1654,software,4.27,5,Printer not responding to print commands.
+2891,1064,network,9.26,2,Application crashing during use.
+2892,1075,software,4.86,3,Need assistance updating antivirus software.
+2893,1710,software,6.59,5,VPN connection dropping intermittently.
+2894,1142,software,4.86,3,VPN connection dropping intermittently.
+2895,1916,software,3.82,4,Keyboard keys not working properly.
+2896,1914,software,7.06,4,Keyboard keys not working properly.
+2897,1827,hardware,10.95,2,Application crashing during use.
+2898,1604,software,4,3,Printer not responding to print commands.
+2899,1472,software,4.25,3,VPN connection dropping intermittently.
+2900,1416,hardware,7.99,3,Software installation fails with error code.
+2901,1304,software,3.5,4,Software installation fails with error code.
+2902,1735,software,4.28,3,Laptop overheating and shutting down.
+2903,1496,software,5.56,4,Software installation fails with error code.
+2904,1290,software,5.1,5,Unable to connect to WiFi network.
+2905,1939,software,4.34,4,Need assistance updating antivirus software.
+2906,1101,network,10.99,2,Application crashing during use.
+2907,1985,network,3.98,5,Keyboard keys not working properly.
+2908,1266,hardware,10.92,2,Unable to connect to WiFi network.
+2909,1866,network,7.71,2,Blue screen error on startup.
+2910,1967,software,3.54,5,Need assistance updating antivirus software.
+2911,1621,software,5.55,4,VPN connection dropping intermittently.
+2912,1973,software,4.67,3,Need assistance updating antivirus software.
+2913,1841,network,10.49,1,Keyboard keys not working properly.
+2914,1961,network,9.74,2,Frequent disconnections from corporate network.
+2915,1941,hardware,15.72,1,Frequent disconnections from corporate network.
+2916,1776,hardware,8.55,2,Unable to connect to WiFi network.
+2917,1002,software,7.09,3,Printer not responding to print commands.
+2918,1084,software,3.25,5,VPN connection dropping intermittently.
+2919,1793,software,4.83,4,Keyboard keys not working properly.
+2920,1327,software,4.3,3,Keyboard keys not working properly.
+2921,1815,software,5.9,3,Keyboard keys not working properly.
+2922,1449,network,9.16,2,Software installation fails with error code.
+2923,1453,software,3.65,4,Keyboard keys not working properly.
+2924,1923,software,5.99,4,Frequent disconnections from corporate network.
+2925,1628,hardware,8.86,2,Blue screen error on startup.
+2926,1220,network,6.37,5,Application crashing during use.
+2927,1153,software,4.98,4,Need assistance updating antivirus software.
+2928,1664,software,2.78,4,Application crashing during use.
+2929,1011,software,6.4,5,Frequent disconnections from corporate network.
+2930,1132,network,7.89,2,Frequent disconnections from corporate network.
+2931,1993,software,4.95,3,Blue screen error on startup.
+2932,1303,software,4.87,5,Laptop overheating and shutting down.
+2933,1292,software,7.47,2,Unable to connect to WiFi network.
+2934,1974,software,7.28,3,Software installation fails with error code.
+2935,1299,software,7.03,2,Printer not responding to print commands.
+2936,1739,software,4.87,3,Keyboard keys not working properly.
+2937,1782,hardware,6.65,3,Keyboard keys not working properly.
+2938,1042,software,4.98,4,Blue screen error on startup.
+2939,1943,network,8.63,3,Laptop overheating and shutting down.
+2940,1342,software,6.22,3,Keyboard keys not working properly.
+2941,1325,network,8.62,2,Software installation fails with error code.
+2942,1813,software,3.46,5,Unable to connect to WiFi network.
+2943,1497,network,6.93,5,Software installation fails with error code.
+2944,1363,network,6.75,4,Laptop overheating and shutting down.
+2945,1890,hardware,11.62,3,Frequent disconnections from corporate network.
+2946,1426,network,9.13,2,Software installation fails with error code.
+2947,1020,software,6.04,3,Application crashing during use.
+2948,1406,network,8.6,2,Software installation fails with error code.
+2949,1618,software,1.91,4,Frequent disconnections from corporate network.
+2950,1335,software,2.41,5,Keyboard keys not working properly.
+2951,1814,software,4.79,4,Need assistance updating antivirus software.
+2952,1116,software,5.15,4,Need assistance updating antivirus software.
+2953,1123,network,10.51,1,Need assistance updating antivirus software.
+2954,1398,software,5.12,4,Keyboard keys not working properly.
+2955,1792,network,6.05,4,Blue screen error on startup.
+2956,1803,software,5.99,5,Unable to connect to WiFi network.
+2957,1714,software,4.97,3,Unable to connect to WiFi network.
+2958,1050,hardware,8.79,3,Keyboard keys not working properly.
+2959,1782,network,4.77,3,Software installation fails with error code.
+2960,1323,software,5.13,4,Printer not responding to print commands.
+2961,1788,network,8.46,3,Unable to connect to WiFi network.
+2962,1140,software,3.51,4,Application crashing during use.
+2963,1469,software,6.12,4,Application crashing during use.
+2964,1786,hardware,11.96,1,VPN connection dropping intermittently.
+2965,1801,network,8.1,4,Application crashing during use.
+2966,1333,network,8.02,2,Unable to connect to WiFi network.
+2967,1892,software,6.42,4,Printer not responding to print commands.
+2968,1963,network,8.74,4,Frequent disconnections from corporate network.
+2969,1372,network,6.6,3,Need assistance updating antivirus software.
+2970,1563,software,4.7,4,Software installation fails with error code.
+2971,1493,network,9.11,1,Frequent disconnections from corporate network.
+2972,1538,network,3.94,4,Printer not responding to print commands.
+2973,1668,software,3.6,5,Blue screen error on startup.
+2974,1750,software,6.02,4,Need assistance updating antivirus software.
+2975,1155,network,10.42,3,VPN connection dropping intermittently.
+2976,1290,network,10.04,3,Blue screen error on startup.
+2977,1647,software,6.34,4,Unable to connect to WiFi network.
+2978,1143,network,8.26,3,Printer not responding to print commands.
+2979,1105,software,3.46,5,Need assistance updating antivirus software.
+2980,1419,network,7.61,3,VPN connection dropping intermittently.
+2981,1669,software,2.01,4,Software installation fails with error code.
+2982,1657,software,6.95,4,Software installation fails with error code.
+2983,1001,software,3.77,5,Keyboard keys not working properly.
+2984,1944,hardware,8.4,3,Unable to connect to WiFi network.
+2985,1588,software,6.59,4,Application crashing during use.
+2986,1643,network,4.77,3,Printer not responding to print commands.
+2987,1089,network,5.62,5,VPN connection dropping intermittently.
+2988,1344,software,5.4,4,VPN connection dropping intermittently.
+2989,1349,network,9.04,2,Application crashing during use.
+2990,1458,network,7.86,2,Application crashing during use.
+2991,1262,software,4.94,3,Blue screen error on startup.
+2992,1350,software,6.9,4,Need assistance updating antivirus software.
+2993,1107,software,5.95,5,Blue screen error on startup.
+2994,1585,software,5.75,3,Laptop overheating and shutting down.
+2995,1038,software,6.16,3,Laptop overheating and shutting down.
+2996,1908,network,7.4,2,Unable to connect to WiFi network.
+2997,1158,hardware,16.52,1,Keyboard keys not working properly.
+2998,1582,network,3.38,4,Printer not responding to print commands.
+2999,1958,software,7.19,3,VPN connection dropping intermittently.
+3000,1311,software,6.35,5,Need assistance updating antivirus software.
