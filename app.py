@@ -34,7 +34,7 @@ if st.button("Upload to GitHub"):
     headers = ("Authorization" f"token {st.secrets['github']['token']}")
 
     payload = (
-        "message": "Add data.csv",
+        "message"; "Add data.csv",
         "content": content,
         "branch": "main"
     )
