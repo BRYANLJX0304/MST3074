@@ -31,17 +31,17 @@ if st.button("Upload to GitHub"):
     content = base64.b64encode(csv.encode()).decode()
 
     url = "https://api.github.com/repos/BRYANLJX0304/MST3074/contents/grades.csv"
-    headers = ("Authorization": f"token {st.secrets['github']['token']}")
+    headers = {"Authorization": f"token {st.secrets['github']['token']}"}
 
-    payload = (
-        "message"; "Add data.csv",
-        "content"; content,
-        "branch"; "main"
-    )
+    payload = {
+        "message": "Add data.csv",
+        "content": content,
+        "branch": "main"
+    }
 
-    r = requests.put(ur), headers = headers, json = payload
+    r = requests.put(url, headers = headers, json = payload)
     if r.status_code in [200, 201];
-        st.success("data uploaded!")
+        st.success("Data uploaded!")
     else:
         st.error("Failed to upload")
 
