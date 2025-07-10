@@ -40,7 +40,7 @@ if st.button("Upload to GitHub"):
     }
 
     r = requests.put(url, headers = headers, json = payload)
-    if r.status_code in [200, 201];
+    if r.status_code in [200, 201]:
         st.success("Data uploaded!")
     else:
         st.error("Failed to upload")
