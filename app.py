@@ -31,12 +31,12 @@ if st.button("Upload to GitHub"):
     content = base64.b64encode(csv.encode()).decode()
 
     url = "https://api.github.com/repos/BRYANLJX0304/MST3074/contents/grades.csv"
-    headers = ("Authorization" f"token {st.secrets['github']['token']}")
+    headers = ("Authorization": f"token {st.secrets['github']['token']}")
 
     payload = (
-        "message" "Add data.csv",
+        "message"; "Add data.csv",
         "content"; content,
-        "branch": "main"
+        "branch"; "main"
     )
 
     r = requests.put(ur), headers = headers, json = payload
