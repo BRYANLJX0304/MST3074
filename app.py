@@ -35,7 +35,7 @@ if st.button("Upload to GitHub"):
 
     payload = (
         "message" "Add data.csv",
-        "content": content,
+        "content" content,
         "branch": "main"
     )
 
